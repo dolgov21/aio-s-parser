@@ -5,15 +5,11 @@ import json
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
 from aiohttp_socks import ProxyConnector
-from config import load_config
-
-config = load_config()
 
 @dataclass
 class Institute:
     institute: str
     institute_num: int
-
 
 @dataclass
 class Group:
@@ -21,7 +17,6 @@ class Group:
     course: str
     group: str
     group_id: str
-
 
 @dataclass
 class Student:
@@ -40,7 +35,8 @@ class DataScrapper:
         3: "Институт автоматики и электронного приборостроения",
         4: "Институт компьютерных технологий и защиты информации",  # отделение СПО КИТ 4
         5: "Институт радиоэлектроники, фотоники и цифровых технологий",
-        6: "Институт инженерной экономики и предпринимательства"
+        6: "Институт инженерной экономики и предпринимательства",
+        9: "Институт инженерной экономики и предпринимательства" # вроде бы как тоже ИИЭиП, 69 - всё таки
     }
     headers = {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -51,8 +47,7 @@ class DataScrapper:
     }
     students: list[Student] = []
     groups: list[Group] = []
-    institutes: list[Institute] = [Institute(institute=value, institute_num=key) for key, value in
-                                   kai_institutes.items()]
+    institutes: list[Institute] = [Institute(institute=value, institute_num=key) for key, value in kai_institutes.items()]
 
     recursions_count = 0
     exception_groups: list[Group] = []
@@ -64,7 +59,7 @@ class DataScrapper:
         self.recursion_limit = recursion_limit
 
     async def _get_groups(self, session) -> Group:
-        url = "https://kai.ru/raspisanie"
+        url = "https://kai.ru/web/studentu/raspisanie1"
         params = {
             "p_p_id": "pubStudentSchedule_WAR_publicStudentSchedule10",
             "p_p_lifecycle": 2,
@@ -187,7 +182,7 @@ class DataScrapper:
             await asyncio.sleep(3)
             self.recursions_count += 1
             await self._student_parsing(session, self.exception_groups)
-
+            
     def remove_duplicates(self):
         unique_students = {}
 
@@ -211,13 +206,10 @@ class DataScrapper:
         """
         :return: (institutes[Institute], groups[Group], students[Student])
         """
-        # http://{USERNAME}:{PASSWORD}@{PROXY_ADDRESS}
-        purl = f"{config.proxy.type}://{config.proxy.username}:{config.proxy.password}@{config.proxy.proxy_address}"
-        connector = ProxyConnector.from_url(url=purl)
-        print("Proxy connector created")
+        connector = aiohttp.TCPConnector(verify_ssl=False)
+	# connector = ProxyConnector.from_url(url="socks5://eWCnD6:XNcaf2@194.124.48.196:9746")
 
-        async with aiohttp.ClientSession(trust_env=True, timeout=aiohttp.ClientTimeout(total=self.connection_timeout),
-                                         connector=connector) as session:
+        async with aiohttp.ClientSession(trust_env=True, timeout=aiohttp.ClientTimeout(total=self.connection_timeout), connector=connector) as session:
             print("Start students parsing")
             await self._get_groups(session)
             await self._student_parsing(session, self.groups)
