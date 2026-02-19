@@ -1,0 +1,69 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1538304,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26180,
+            "old_group_id": 26203,
+            "new_group_": "6299",
+            "old_group_": "6295"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1538304,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26180,
+            "group_": "6299",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1517822,
+            "student": "Байраммырадов Кемал",
+            "leader": false,
+            "group_id": 26465,
+            "group_": "4168",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1521843,
+            "student": "Хайдаров Хайрулло Кутфуллоевич",
+            "leader": false,
+            "group_id": 26349,
+            "group_": "5407",
+            "course": 4,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1523377,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26203,
+            "group_": "6295",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-03-16",
+    "time_difference": "00:09:10",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14897,
+    "total_new_students": 1,
+    "total_deleted_students": 3,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

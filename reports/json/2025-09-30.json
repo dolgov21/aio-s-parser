@@ -1,0 +1,164 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2729915,
+            "student": "Идрисова Рушана Руслановна",
+            "new_group_id": 27504,
+            "old_group_id": 27515,
+            "new_group_": "3342",
+            "old_group_": "3437"
+        },
+        {
+            "student_id": 2735065,
+            "student": "Гарманов Ратмир Денисович",
+            "new_group_id": 27636,
+            "old_group_id": 27335,
+            "new_group_": "5311",
+            "old_group_": "4306"
+        },
+        {
+            "student_id": 2738038,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 2742253,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2739492,
+            "student": "Данилова Анна Сергеевна",
+            "group_id": 27170,
+            "group_": "12103",
+            "leader": false
+        },
+        {
+            "student_id": 2729915,
+            "student": "Идрисова Рушана Руслановна",
+            "group_id": 27504,
+            "group_": "3342",
+            "leader": false
+        },
+        {
+            "student_id": 2735065,
+            "student": "Гарманов Ратмир Денисович",
+            "group_id": 27636,
+            "group_": "5311",
+            "leader": false
+        },
+        {
+            "student_id": 2740320,
+            "student": "Мирзаханова Айша Мехмановна",
+            "group_id": 28013,
+            "group_": "23104",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2723046,
+            "student": "Васильева Анна Сергеевна",
+            "leader": false,
+            "group_id": 27170,
+            "group_": "12103",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2710942,
+            "student": "Дмитриев Даниил Владимирович",
+            "leader": false,
+            "group_id": 27558,
+            "group_": "1296",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2723908,
+            "student": "Мирзаханова Айша Мехман кызы",
+            "leader": false,
+            "group_id": 28013,
+            "group_": "23104",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2713684,
+            "student": "Идрисова Рушана Руслановна",
+            "leader": false,
+            "group_id": 27515,
+            "group_": "3437",
+            "course": 4,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2716040,
+            "student": "Гарманов Ратмир Денисович",
+            "leader": false,
+            "group_id": 27335,
+            "group_": "4306",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 2736257,
+            "student": "Гилязутдинова Залина Фидановна",
+            "student_group": 27084,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "6204"
+        },
+        {
+            "student_id": 2736266,
+            "student": "Романова Яна Павловна",
+            "student_group": 27084,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "6204"
+        },
+        {
+            "student_id": 2732270,
+            "student": "Исхаков Айнур Илнурович",
+            "student_group": 27324,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "4293"
+        }
+    ],
+    "today": "2025-09-30",
+    "time_difference": "00:10:58",
+    "total_groups": 924,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 16433,
+    "total_new_students": 4,
+    "total_deleted_students": 5,
+    "total_leader_status": 3,
+    "total_group_changes": 4
+}

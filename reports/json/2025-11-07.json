@@ -1,0 +1,192 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2922620,
+            "student": "Петров Никита Сергеевич",
+            "new_group_id": 27728,
+            "old_group_id": 27719,
+            "new_group_": "1211",
+            "old_group_": "4185"
+        },
+        {
+            "student_id": 2931320,
+            "student": "Мишина Ирина Сергеевна",
+            "new_group_id": 28230,
+            "old_group_id": 27450,
+            "new_group_": "6179",
+            "old_group_": "3140"
+        },
+        {
+            "student_id": 2931496,
+            "student": "Гайыпов Атаджан",
+            "new_group_id": 27082,
+            "old_group_id": 28036,
+            "new_group_": "6202",
+            "old_group_": "23213"
+        },
+        {
+            "student_id": 2933407,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 2933694,
+            "student": "Малышев Эмиль Владиславович",
+            "new_group_id": 27530,
+            "old_group_id": 27450,
+            "new_group_": "8222",
+            "old_group_": "3140"
+        },
+        {
+            "student_id": 2935416,
+            "student": "Агзамов Альберт Айратович",
+            "new_group_id": 27190,
+            "old_group_id": 27713,
+            "new_group_": "14105",
+            "old_group_": "1159"
+        },
+        {
+            "student_id": 2937643,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2931496,
+            "student": "Гайыпов Атаджан",
+            "group_id": 27082,
+            "group_": "6202",
+            "leader": false
+        },
+        {
+            "student_id": 2934905,
+            "student": "Лазарев Владислав Андреевич",
+            "group_id": 27164,
+            "group_": "11110",
+            "leader": false
+        },
+        {
+            "student_id": 2935416,
+            "student": "Агзамов Альберт Айратович",
+            "group_id": 27190,
+            "group_": "14105",
+            "leader": false
+        },
+        {
+            "student_id": 2935395,
+            "student": "Григорьев Сергей Александрович",
+            "group_id": 27193,
+            "group_": "14109",
+            "leader": false
+        },
+        {
+            "student_id": 2933694,
+            "student": "Малышев Эмиль Владиславович",
+            "group_id": 27530,
+            "group_": "8222",
+            "leader": false
+        },
+        {
+            "student_id": 2922620,
+            "student": "Петров Никита Сергеевич",
+            "group_id": 27728,
+            "group_": "1211",
+            "leader": false
+        },
+        {
+            "student_id": 2931320,
+            "student": "Мишина Ирина Сергеевна",
+            "group_id": 28230,
+            "group_": "6179",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2906015,
+            "student": "Агзамов Альберт Айратович",
+            "leader": true,
+            "group_id": 27713,
+            "group_": "1159",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2908473,
+            "student": "Малышев Эмиль Владиславович",
+            "leader": false,
+            "group_id": 27450,
+            "group_": "3140",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2908475,
+            "student": "Мишина Ирина Сергеевна",
+            "leader": false,
+            "group_id": 27450,
+            "group_": "3140",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2909073,
+            "student": "Ерманов Александр",
+            "leader": false,
+            "group_id": 27489,
+            "group_": "3296",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2910660,
+            "student": "Петров Никита Сергеевич",
+            "leader": false,
+            "group_id": 27719,
+            "group_": "4185",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2919696,
+            "student": "Гайыпов Атаджан",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-11-07",
+    "time_difference": "00:11:40",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 16290,
+    "total_new_students": 7,
+    "total_deleted_students": 6,
+    "total_leader_status": 0,
+    "total_group_changes": 7
+}

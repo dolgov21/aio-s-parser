@@ -1,0 +1,127 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 3273320,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        },
+        {
+            "student_id": 3269057,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 3262667,
+            "student": "Ибрагимов Ильнур Айнурович",
+            "group_id": 27393,
+            "group_": "4180",
+            "leader": false
+        },
+        {
+            "student_id": 3262738,
+            "student": "Султангареев Наиль Рамилович",
+            "group_id": 27397,
+            "group_": "4184",
+            "leader": false
+        },
+        {
+            "student_id": 3265187,
+            "student": "Куликова Юлия Николаевна",
+            "group_id": 27427,
+            "group_": "4481",
+            "leader": false
+        },
+        {
+            "student_id": 3271182,
+            "student": "Ершов Данил Александрович",
+            "group_id": 28049,
+            "group_": "21205",
+            "leader": false
+        },
+        {
+            "student_id": 3271462,
+            "student": "Зиганшин Герман Альбертович",
+            "group_id": 28034,
+            "group_": "23201",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 3252224,
+            "student": "Языев Агамырат",
+            "leader": false,
+            "group_id": 27114,
+            "group_": "6307",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 3252252,
+            "student": "Лукманов Лукман",
+            "leader": false,
+            "group_id": 27111,
+            "group_": "6303",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 3252365,
+            "student": "Сайфуллаев Берди",
+            "leader": false,
+            "group_id": 27120,
+            "group_": "6323",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 3252367,
+            "student": "Суванов Сохбет",
+            "leader": false,
+            "group_id": 27120,
+            "group_": "6323",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 3252450,
+            "student": "Маммаев Мухаммет",
+            "leader": false,
+            "group_id": 27121,
+            "group_": "6324",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-12-23",
+    "time_difference": "00:10:18",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15785,
+    "total_new_students": 5,
+    "total_deleted_students": 5,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

@@ -1,0 +1,203 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1101758,
+            "student": "Сабиров Рузаль Марселевич",
+            "group_id": 25987,
+            "group_": "5215",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1078893,
+            "student": "Анемподистов Георгий Андреевич",
+            "leader": false,
+            "group_id": 26322,
+            "group_": "1144",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1091257,
+            "student": "Понявин Максим Дмитриевич",
+            "leader": false,
+            "group_id": 25431,
+            "group_": "21101",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1091281,
+            "student": "Хуснутдинов Артур Рамилевич",
+            "leader": false,
+            "group_id": 25432,
+            "group_": "21102",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1091949,
+            "student": "Хамраев Тимур Раимович",
+            "leader": false,
+            "group_id": 26691,
+            "group_": "24101",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1093185,
+            "student": "Ямалтдинов Артур Александрович",
+            "leader": false,
+            "group_id": 26706,
+            "group_": "28402",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1092551,
+            "student": "Бабич Анастасия Сергеевна",
+            "leader": false,
+            "group_id": 26751,
+            "group_": "28101",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1091354,
+            "student": "Главнов Александр Сергеевич",
+            "leader": false,
+            "group_id": 26768,
+            "group_": "21202",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1091355,
+            "student": "Карабаев Зокирджон Рустамович",
+            "leader": false,
+            "group_id": 26768,
+            "group_": "21202",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1084573,
+            "student": "Алексеев Артём Александрович",
+            "leader": false,
+            "group_id": 26049,
+            "group_": "4294",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1083225,
+            "student": "Гайсин Данис Маратович",
+            "leader": false,
+            "group_id": 26396,
+            "group_": "4134",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1084119,
+            "student": "Емельянов Юрий Владимирович",
+            "leader": false,
+            "group_id": 26577,
+            "group_": "4233",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 1094795,
+            "student": "Садыков Эмиль Ильгизович",
+            "student_group": 25900,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "1304"
+        },
+        {
+            "student_id": 1096185,
+            "student": "Галиева Диана Радиковна",
+            "student_group": 26134,
+            "leader": false,
+            "status": "demotion",
+            "course": 3,
+            "group_": "2313"
+        },
+        {
+            "student_id": 1096198,
+            "student": "Халамейда Никита Андреевич",
+            "student_group": 26134,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "2313"
+        },
+        {
+            "student_id": 1103003,
+            "student": "Сейидова Тамара",
+            "student_group": 26857,
+            "leader": true,
+            "status": "promotion",
+            "course": 1,
+            "group_": "6122"
+        },
+        {
+            "student_id": 1104948,
+            "student": "Брагин Арсений Валерьевич",
+            "student_group": 26605,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "8220"
+        },
+        {
+            "student_id": 1105117,
+            "student": "Адельшина Аделя Романовна",
+            "student_group": 26607,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "8222"
+        }
+    ],
+    "today": "2025-02-07",
+    "time_difference": "00:09:46",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14960,
+    "total_new_students": 1,
+    "total_deleted_students": 11,
+    "total_leader_status": 6,
+    "total_group_changes": 0
+}

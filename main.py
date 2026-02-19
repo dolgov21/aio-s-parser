@@ -23,7 +23,8 @@ def main():
         institutes_data, groups_data, students_data = asyncio.run(data_scrapper.parse_data())
     except Exception as e:
         asyncio.run(rapporteur.send_error_message())
-        raise f"data_scrapper exception {e}"
+        raise (f"data_scrapper exception"
+               f"{e}")
 
     db_manager = database_manager.DatabaseManager(
         db_echo=config.database.db_echo,

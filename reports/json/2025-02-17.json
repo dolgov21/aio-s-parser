@@ -1,0 +1,125 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1245610,
+            "student": "Поручиков Владимир Дмитриевич",
+            "new_group_id": 25959,
+            "old_group_id": 25927,
+            "new_group_": "1493",
+            "old_group_": "1406"
+        },
+        {
+            "student_id": 1251268,
+            "student": "Попов Андрей Владимирович",
+            "new_group_id": 26368,
+            "old_group_id": 26252,
+            "new_group_": "5114",
+            "old_group_": "3337"
+        },
+        {
+            "student_id": 1255741,
+            "student": "Абдулябаров Данис Фанилович",
+            "new_group_id": 26515,
+            "old_group_id": 26455,
+            "new_group_": "11103",
+            "old_group_": "3178"
+        },
+        {
+            "student_id": 1255755,
+            "student": "Нелюбин Максим Игоревич",
+            "new_group_id": 26515,
+            "old_group_id": 26455,
+            "new_group_": "11103",
+            "old_group_": "3178"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1245610,
+            "student": "Поручиков Владимир Дмитриевич",
+            "group_id": 25959,
+            "group_": "1493",
+            "leader": false
+        },
+        {
+            "student_id": 1251268,
+            "student": "Попов Андрей Владимирович",
+            "group_id": 26368,
+            "group_": "5114",
+            "leader": false
+        },
+        {
+            "student_id": 1255741,
+            "student": "Абдулябаров Данис Фанилович",
+            "group_id": 26515,
+            "group_": "11103",
+            "leader": false
+        },
+        {
+            "student_id": 1255755,
+            "student": "Нелюбин Максим Игоревич",
+            "group_id": 26515,
+            "group_": "11103",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1230294,
+            "student": "Поручиков Владимир Дмитриевич",
+            "leader": false,
+            "group_id": 25927,
+            "group_": "1406",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1232169,
+            "student": "Попов Андрей Владимирович",
+            "leader": false,
+            "group_id": 26252,
+            "group_": "3337",
+            "course": 3,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1231498,
+            "student": "Абдулябаров Данис Фанилович",
+            "leader": false,
+            "group_id": 26455,
+            "group_": "3178",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1231509,
+            "student": "Нелюбин Максим Игоревич",
+            "leader": false,
+            "group_id": 26455,
+            "group_": "3178",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-02-17",
+    "time_difference": "00:11:39",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15006,
+    "total_new_students": 4,
+    "total_deleted_students": 4,
+    "total_leader_status": 0,
+    "total_group_changes": 4
+}

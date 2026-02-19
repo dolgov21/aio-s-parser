@@ -1,0 +1,103 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 3042192,
+            "student": "Зверев Андрей Андреевич",
+            "new_group_id": 27232,
+            "old_group_id": 28171,
+            "new_group_": "4436",
+            "old_group_": "24174"
+        },
+        {
+            "student_id": 3044514,
+            "student": "Анисимов Вадим Валерьевич",
+            "new_group_id": 27831,
+            "old_group_id": 27843,
+            "new_group_": "6192",
+            "old_group_": "6195"
+        },
+        {
+            "student_id": 3046436,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 3050669,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 3042192,
+            "student": "Зверев Андрей Андреевич",
+            "group_id": 27232,
+            "group_": "4436",
+            "leader": false
+        },
+        {
+            "student_id": 3041123,
+            "student": "Кадыров Исмаэль Салимович",
+            "group_id": 27333,
+            "group_": "4304",
+            "leader": false
+        },
+        {
+            "student_id": 3039189,
+            "student": "Кузнецов Роман Алексеевич",
+            "group_id": 27414,
+            "group_": "4104",
+            "leader": false
+        },
+        {
+            "student_id": 3044514,
+            "student": "Анисимов Вадим Валерьевич",
+            "group_id": 27831,
+            "group_": "6192",
+            "leader": true
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 3028454,
+            "student": "Анисимов Вадим Валерьевич",
+            "leader": false,
+            "group_id": 27843,
+            "group_": "6195",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 3033235,
+            "student": "Зверев Андрей Андреевич",
+            "leader": false,
+            "group_id": 28171,
+            "group_": "24174",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-11-30",
+    "time_difference": "00:10:08",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 16028,
+    "total_new_students": 4,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 4
+}

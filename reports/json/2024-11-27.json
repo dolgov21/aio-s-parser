@@ -1,0 +1,81 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 185441,
+            "student": "Титов Алексей Евгеньевич",
+            "group_id": 26298,
+            "group_": "1109",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 185050,
+            "student": "Соколов Юрий Сергеевич",
+            "leader": false,
+            "group_id": 25702,
+            "group_": "28472",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 183955,
+            "student": "Сергеев Артемий Юрьевич",
+            "leader": false,
+            "group_id": 26699,
+            "group_": "24191",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 178914,
+            "student": "Синцов Кирилл Дмитриевич",
+            "leader": false,
+            "group_id": 26334,
+            "group_": "5309",
+            "course": 3,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 181043,
+            "student": "Пьянова Ксения Андреевна",
+            "leader": false,
+            "group_id": 25967,
+            "group_": "6378",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 193419,
+            "student": "Чепикова Анна Владимировна",
+            "student_group": 26373,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "5116"
+        }
+    ],
+    "today": "2024-11-27",
+    "time_difference": "00:09:48",
+    "total_groups": 904,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15349,
+    "total_new_students": 1,
+    "total_deleted_students": 4,
+    "total_leader_status": 1,
+    "total_group_changes": 0
+}

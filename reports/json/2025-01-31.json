@@ -1,0 +1,191 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1007728,
+            "student": "Гайнутдинов Дамир Рафитович",
+            "group_id": 26481,
+            "group_": "3478",
+            "leader": false
+        },
+        {
+            "student_id": 1007729,
+            "student": "Гайнутдинова  Алия Алмазовна",
+            "group_id": 26481,
+            "group_": "3478",
+            "leader": false
+        },
+        {
+            "student_id": 1007731,
+            "student": "Калашникова Марина Сергеевна",
+            "group_id": 26481,
+            "group_": "3478",
+            "leader": false
+        },
+        {
+            "student_id": 1017214,
+            "student": "Левизанова  Карима Искандеровна",
+            "group_id": 26657,
+            "group_": "24200",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1000547,
+            "student": "Алдошин Владимир Денисович",
+            "leader": false,
+            "group_id": 25357,
+            "group_": "8321",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 990096,
+            "student": "Сарваров Алмаз Булатович",
+            "leader": false,
+            "group_id": 25906,
+            "group_": "1311",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 990864,
+            "student": "Арсланов  Артем Робертович",
+            "leader": false,
+            "group_id": 25957,
+            "group_": "1581",
+            "course": 5,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 990780,
+            "student": "Шлыков Константин Александрович",
+            "leader": false,
+            "group_id": 25959,
+            "group_": "1493",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 990821,
+            "student": "Сергеев Никита Сергеевич",
+            "leader": false,
+            "group_id": 26021,
+            "group_": "1496",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 991325,
+            "student": "Назаров Илья Андреевич",
+            "leader": false,
+            "group_id": 26133,
+            "group_": "2312",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1002214,
+            "student": "Калматова Карима Искандеровна",
+            "leader": false,
+            "group_id": 26657,
+            "group_": "24200",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1002389,
+            "student": "Газизов Карим Разилевич",
+            "leader": false,
+            "group_id": 26684,
+            "group_": "24288",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1002846,
+            "student": "Сахапов Динар Ревович",
+            "leader": false,
+            "group_id": 26757,
+            "group_": "28173",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 992771,
+            "student": "Кириллова Алена Александровна",
+            "leader": false,
+            "group_id": 26481,
+            "group_": "3478",
+            "course": 4,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 994220,
+            "student": "Спиридонова Весна Александровна",
+            "leader": false,
+            "group_id": 26042,
+            "group_": "4223",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 995116,
+            "student": "Дятлов Анатолий Федорович",
+            "leader": false,
+            "group_id": 26640,
+            "group_": "4333",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 997754,
+            "student": "Валиев Артур Мансурович",
+            "leader": false,
+            "group_id": 26017,
+            "group_": "5572",
+            "course": 5,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-31",
+    "time_difference": "00:10:12",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14977,
+    "total_new_students": 4,
+    "total_deleted_students": 13,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

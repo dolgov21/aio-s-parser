@@ -1,0 +1,87 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 255229,
+            "student": "Загидуллин Камиль Марселевич",
+            "new_group_id": 25994,
+            "old_group_id": 26514,
+            "new_group_": "5284",
+            "old_group_": "11111"
+        },
+        {
+            "student_id": 255168,
+            "student": "Николаева Полина Сергеевна",
+            "new_group_id": 25990,
+            "old_group_id": 26767,
+            "new_group_": "5224",
+            "old_group_": "21201"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 251211,
+            "student": "Шагиев Амир Ильдарович",
+            "group_id": 26435,
+            "group_": "4116",
+            "leader": false
+        },
+        {
+            "student_id": 255168,
+            "student": "Николаева Полина Сергеевна",
+            "group_id": 25990,
+            "group_": "5224",
+            "leader": false
+        },
+        {
+            "student_id": 255229,
+            "student": "Загидуллин Камиль Марселевич",
+            "group_id": 25994,
+            "group_": "5284",
+            "leader": false
+        },
+        {
+            "student_id": 259576,
+            "student": "Гусейнов Сеймур Булутович",
+            "group_id": 26546,
+            "group_": "13000",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 243368,
+            "student": "Загидуллин Камиль Марселевич",
+            "leader": false,
+            "group_id": 26514,
+            "group_": "11111",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 243963,
+            "student": "Николаева Полина Сергеевна",
+            "leader": false,
+            "group_id": 26767,
+            "group_": "21201",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-01",
+    "time_difference": "00:10:49",
+    "total_groups": 905,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15306,
+    "total_new_students": 4,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

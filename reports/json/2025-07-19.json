@@ -1,0 +1,26 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 2172975,
+            "student": "Садыкова Диана Фанисовна",
+            "group_id": 26774,
+            "group_": "21275",
+            "leader": false
+        }
+    ],
+    "left_students": [],
+    "leader_status": [],
+    "today": "2025-07-19",
+    "time_difference": "00:10:14",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13823,
+    "total_new_students": 1,
+    "total_deleted_students": 0,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

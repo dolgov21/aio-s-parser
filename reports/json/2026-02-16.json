@@ -1,0 +1,63 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 3594148,
+            "student": "Королева Диана Дмитриевна",
+            "new_group_id": 27210,
+            "old_group_id": 27116,
+            "new_group_": "4240",
+            "old_group_": "6310"
+        },
+        {
+            "student_id": 3603795,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        },
+        {
+            "student_id": 3604155,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 3594148,
+            "student": "Королева Диана Дмитриевна",
+            "group_id": 27210,
+            "group_": "4240",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 3582976,
+            "student": "Королева Диана Дмитриевна",
+            "leader": false,
+            "group_id": 27116,
+            "group_": "6310",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2026-02-16",
+    "time_difference": "00:11:18",
+    "total_groups": 936,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15732,
+    "total_new_students": 1,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

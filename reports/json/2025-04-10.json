@@ -1,0 +1,322 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1774046,
+            "student": "Баширов Данис Артемович",
+            "group_id": 26355,
+            "group_": "5414",
+            "leader": false
+        },
+        {
+            "student_id": 1779156,
+            "student": "Гилязев Наиль Назимович",
+            "group_id": 26750,
+            "group_": "28107",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1762139,
+            "student": "Древаль Тимур Денисович",
+            "leader": false,
+            "group_id": 25341,
+            "group_": "8311",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1762191,
+            "student": "Хамзин Михаил Валерьевич",
+            "leader": false,
+            "group_id": 25347,
+            "group_": "8313",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1762122,
+            "student": "Лизунов Владислав Владимирович",
+            "leader": false,
+            "group_id": 25355,
+            "group_": "8320",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1762420,
+            "student": "Тумановская Алёна Дмитриевна",
+            "leader": false,
+            "group_id": 25405,
+            "group_": "8440",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1761626,
+            "student": "Меркурьев Илья Сергеевич",
+            "leader": false,
+            "group_id": 26591,
+            "group_": "8210",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1761851,
+            "student": "Кузьмичев Кирилл Юрьевич",
+            "leader": false,
+            "group_id": 26608,
+            "group_": "8223",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1761367,
+            "student": "Павлов Максим Сергеевич",
+            "leader": false,
+            "group_id": 26794,
+            "group_": "8122",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1761371,
+            "student": "Чернов Владимир Борисович",
+            "leader": false,
+            "group_id": 26794,
+            "group_": "8122",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1764089,
+            "student": "Хафизов Ильназ Данилович",
+            "leader": false,
+            "group_id": 26685,
+            "group_": "24291",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1763684,
+            "student": "Ахметов Альфред Фаритович",
+            "leader": false,
+            "group_id": 26817,
+            "group_": "23481",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1763477,
+            "student": "Жуманиязов Хурсандбек",
+            "leader": false,
+            "group_id": 26820,
+            "group_": "23201",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1764554,
+            "student": "Усманов Марсель Бахромович",
+            "leader": false,
+            "group_id": 26940,
+            "group_": "28180",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1753832,
+            "student": "Курятников Вадим Дмитриевич",
+            "leader": false,
+            "group_id": 26226,
+            "group_": "3240",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1753879,
+            "student": "Курбанов Назар",
+            "leader": false,
+            "group_id": 26231,
+            "group_": "3245",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1753971,
+            "student": "Бердыев Захитджан",
+            "leader": false,
+            "group_id": 26232,
+            "group_": "3246",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1753997,
+            "student": "Карпеев Виктор Дмитриевич",
+            "leader": false,
+            "group_id": 26234,
+            "group_": "3284",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1760311,
+            "student": "Розыбаев Суннет",
+            "leader": false,
+            "group_id": 26156,
+            "group_": "6221",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1760346,
+            "student": "Агаев Палван",
+            "leader": false,
+            "group_id": 26158,
+            "group_": "6223",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1760285,
+            "student": "Чарыев Атабек",
+            "leader": false,
+            "group_id": 26159,
+            "group_": "6224",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1760465,
+            "student": "Мелебаев Ширмырат",
+            "leader": false,
+            "group_id": 26162,
+            "group_": "6227",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1760080,
+            "student": "Копылов Даниил Дмитриевич",
+            "leader": false,
+            "group_id": 26568,
+            "group_": "6199",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1760092,
+            "student": "Щербаков Роман Сергеевич",
+            "leader": false,
+            "group_id": 26568,
+            "group_": "6199",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 1771312,
+            "student": "Соломатин Алексей Дмитриевич",
+            "student_group": 26052,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "4298"
+        },
+        {
+            "student_id": 1768295,
+            "student": "Ихсанов Ильвир Ингелович",
+            "student_group": 26384,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "3185"
+        },
+        {
+            "student_id": 1768441,
+            "student": "Камалиев Амир Маратович",
+            "student_group": 26393,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "3197"
+        },
+        {
+            "student_id": 1768457,
+            "student": "Коротыч Даниель Вячеславович",
+            "student_group": 26394,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "3198"
+        },
+        {
+            "student_id": 1768433,
+            "student": "Сорокин Никита Иванович",
+            "student_group": 26648,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "3194"
+        }
+    ],
+    "today": "2025-04-10",
+    "time_difference": "00:10:05",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14730,
+    "total_new_students": 2,
+    "total_deleted_students": 22,
+    "total_leader_status": 5,
+    "total_group_changes": 0
+}

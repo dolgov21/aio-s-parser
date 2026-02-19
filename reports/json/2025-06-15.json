@@ -1,0 +1,61 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1976576,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26180,
+            "old_group_id": 26203,
+            "new_group_": "6299",
+            "old_group_": "6295"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1978802,
+            "student": "Шалабаев Альберт Рафикович",
+            "group_id": 25432,
+            "group_": "21102",
+            "leader": false
+        },
+        {
+            "student_id": 1976576,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26180,
+            "group_": "6299",
+            "leader": false
+        },
+        {
+            "student_id": 1975121,
+            "student": "Сафин Данил Маратович",
+            "group_id": 26348,
+            "group_": "5406",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1962563,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26203,
+            "group_": "6295",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-06-15",
+    "time_difference": "00:09:32",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14025,
+    "total_new_students": 3,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

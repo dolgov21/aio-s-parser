@@ -1,0 +1,225 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 332645,
+            "student": "Баллыева Гуллер",
+            "new_group_id": 26856,
+            "old_group_id": 26214,
+            "new_group_": "6121",
+            "old_group_": "3142"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 337823,
+            "student": "Прасолов Евгений Иванович",
+            "group_id": 26729,
+            "group_": "28375",
+            "leader": false
+        },
+        {
+            "student_id": 336262,
+            "student": "Андриевский Данил Максимович",
+            "group_id": 26846,
+            "group_": "23103",
+            "leader": false
+        },
+        {
+            "student_id": 332645,
+            "student": "Баллыева Гуллер",
+            "group_id": 26856,
+            "group_": "6121",
+            "leader": true
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 308331,
+            "student": "Ибрагимова Светлана Ильгизовна",
+            "leader": false,
+            "group_id": 26304,
+            "group_": "1157",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 319328,
+            "student": "Золубас Алексей Дмитриевич",
+            "leader": false,
+            "group_id": 26946,
+            "group_": "8146",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 322358,
+            "student": "Ситдикова Алина Руслановна",
+            "leader": false,
+            "group_id": 26716,
+            "group_": "28203",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 322501,
+            "student": "Гнездилов Антон Павлович",
+            "leader": false,
+            "group_id": 26722,
+            "group_": "28275",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 310788,
+            "student": "Баллыева Гуллер",
+            "leader": false,
+            "group_id": 26214,
+            "group_": "3142",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 311254,
+            "student": "Рамазанов Марсель Рустамович",
+            "leader": false,
+            "group_id": 26229,
+            "group_": "3243",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 311218,
+            "student": "Мифтахов Рустам Ринатович",
+            "leader": false,
+            "group_id": 26230,
+            "group_": "3244",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 313671,
+            "student": "Бинеман Алексей Андреевич",
+            "leader": false,
+            "group_id": 26043,
+            "group_": "4262",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 313682,
+            "student": "Якупов Эмиль Ринатович",
+            "leader": false,
+            "group_id": 26043,
+            "group_": "4262",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 313998,
+            "student": "Назипов Нияз Айдарович",
+            "leader": false,
+            "group_id": 26053,
+            "group_": "4299",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 314000,
+            "student": "Рожаловский Данила Станиславович",
+            "leader": false,
+            "group_id": 26053,
+            "group_": "4299",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 314004,
+            "student": "Шандренко Алексей Дмитриевич",
+            "leader": false,
+            "group_id": 26053,
+            "group_": "4299",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 314141,
+            "student": "Лаврухин Никита Андреевич",
+            "leader": false,
+            "group_id": 26058,
+            "group_": "4305",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 314156,
+            "student": "Врачев Александр Юрьевич",
+            "leader": false,
+            "group_id": 26059,
+            "group_": "4306",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 314214,
+            "student": "Колударов Михаил Владимирович",
+            "leader": false,
+            "group_id": 26063,
+            "group_": "4310",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 335063,
+            "student": "Захаров Степан Дмитриевич",
+            "student_group": 26622,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "8243"
+        }
+    ],
+    "today": "2024-12-06",
+    "time_difference": "00:10:18",
+    "total_groups": 905,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15253,
+    "total_new_students": 3,
+    "total_deleted_students": 15,
+    "total_leader_status": 1,
+    "total_group_changes": 1
+}

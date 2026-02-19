@@ -1,0 +1,61 @@
+{
+    "new_groups": [
+        {
+            "group_id": 26851,
+            "group_": "23181",
+            "course": 3,
+            "institute": 2
+        }
+    ],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 931751,
+            "student": "Борисов Дмитрий Александрович",
+            "new_group_id": 26391,
+            "old_group_id": 26224,
+            "new_group_": "3195",
+            "old_group_": "3238"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 931751,
+            "student": "Борисов Дмитрий Александрович",
+            "group_id": 26391,
+            "group_": "3195",
+            "leader": false
+        },
+        {
+            "student_id": 941491,
+            "student": "Гисматов Эмиль Альбертович",
+            "group_id": 26767,
+            "group_": "21201",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 916899,
+            "student": "Борисов Дмитрий Александрович",
+            "leader": false,
+            "group_id": 26224,
+            "group_": "3238",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-26",
+    "time_difference": "00:11:38",
+    "total_groups": 913,
+    "total_new_groups": 1,
+    "total_deleted_groups": 0,
+    "total_students": 15014,
+    "total_new_students": 2,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

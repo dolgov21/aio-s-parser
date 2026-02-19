@@ -1,0 +1,65 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 424184,
+            "student": "Сухих Максим Евгеньевич",
+            "new_group_id": 25859,
+            "old_group_id": 26143,
+            "new_group_": "6178",
+            "old_group_": "2191"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 424184,
+            "student": "Сухих Максим Евгеньевич",
+            "group_id": 25859,
+            "group_": "6178",
+            "leader": false
+        },
+        {
+            "student_id": 422941,
+            "student": "Харитонов Никита Владимирович",
+            "group_id": 26000,
+            "group_": "5294",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 400171,
+            "student": "Гулманов Атабек",
+            "leader": false,
+            "group_id": 25878,
+            "group_": "1219",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 401677,
+            "student": "Сухих Максим Евгеньевич",
+            "leader": false,
+            "group_id": 26143,
+            "group_": "2191",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-15",
+    "time_difference": "00:10:41",
+    "total_groups": 905,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15175,
+    "total_new_students": 2,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

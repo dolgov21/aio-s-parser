@@ -1,0 +1,26 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 2182725,
+            "student": "Мусаб Мустафа Адам Абдалла",
+            "group_id": 26960,
+            "group_": "5298",
+            "leader": false
+        }
+    ],
+    "left_students": [],
+    "leader_status": [],
+    "today": "2025-07-21",
+    "time_difference": "00:09:48",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13824,
+    "total_new_students": 1,
+    "total_deleted_students": 0,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

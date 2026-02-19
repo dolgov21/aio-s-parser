@@ -1,0 +1,47 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 519296,
+            "student": "Ахметов Булат Ринатович",
+            "new_group_id": 26745,
+            "old_group_id": 25364,
+            "new_group_": "28575",
+            "old_group_": "8330"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 519296,
+            "student": "Ахметов Булат Ринатович",
+            "group_id": 26745,
+            "group_": "28575",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 502389,
+            "student": "Ахметов Булат Ринатович",
+            "leader": false,
+            "group_id": 25364,
+            "group_": "8330",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-23",
+    "time_difference": "00:11:44",
+    "total_groups": 911,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15188,
+    "total_new_students": 1,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

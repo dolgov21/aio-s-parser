@@ -1,0 +1,26 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1544751,
+            "student": "Наумов Данила Романович",
+            "group_id": 25938,
+            "group_": "1418",
+            "leader": false
+        }
+    ],
+    "left_students": [],
+    "leader_status": [],
+    "today": "2025-03-17",
+    "time_difference": "00:10:20",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14898,
+    "total_new_students": 1,
+    "total_deleted_students": 0,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

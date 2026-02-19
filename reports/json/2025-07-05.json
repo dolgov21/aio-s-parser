@@ -1,0 +1,90 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2032247,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2034552,
+            "student": "Митрофанов Михаил Андреевич",
+            "group_id": 25504,
+            "group_": "21301",
+            "leader": false
+        },
+        {
+            "student_id": 2023581,
+            "student": "Ляшко Илья Дмитриевич",
+            "group_id": 25880,
+            "group_": "1224",
+            "leader": false
+        },
+        {
+            "student_id": 2032247,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        },
+        {
+            "student_id": 2034606,
+            "student": "Насыров Шынгыс Сакенулы",
+            "group_id": 26785,
+            "group_": "21402",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2020656,
+            "student": "Скворцов Даниил Дмитриевич",
+            "leader": false,
+            "group_id": 26768,
+            "group_": "21202",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2020696,
+            "student": "Насыров Шынгыс Сакен улы",
+            "leader": false,
+            "group_id": 26785,
+            "group_": "21402",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2018320,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-07-05",
+    "time_difference": "00:09:22",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13873,
+    "total_new_students": 4,
+    "total_deleted_students": 3,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

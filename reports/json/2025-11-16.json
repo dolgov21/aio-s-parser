@@ -1,0 +1,70 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2977155,
+            "student": "Иванов Илья Сергеевич",
+            "new_group_id": 27215,
+            "old_group_id": 27910,
+            "new_group_": "4331",
+            "old_group_": "28276"
+        },
+        {
+            "student_id": 2982221,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 2986416,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2971837,
+            "student": "Давлеталиев Илшат Ренатович",
+            "group_id": 26971,
+            "group_": "1305",
+            "leader": false
+        },
+        {
+            "student_id": 2977155,
+            "student": "Иванов Илья Сергеевич",
+            "group_id": 27215,
+            "group_": "4331",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2969917,
+            "student": "Иванов Илья Сергеевич",
+            "leader": false,
+            "group_id": 27910,
+            "group_": "28276",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-11-16",
+    "time_difference": "00:10:39",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 16183,
+    "total_new_students": 2,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

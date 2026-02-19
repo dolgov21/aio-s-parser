@@ -1,0 +1,40 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 270624,
+            "student": "Турсунова Орунгуль",
+            "group_id": 26000,
+            "group_": "5294",
+            "leader": false
+        },
+        {
+            "student_id": 274644,
+            "student": "Соколов Артем Владимирович",
+            "group_id": 26519,
+            "group_": "11108",
+            "leader": false
+        },
+        {
+            "student_id": 274674,
+            "student": "Биктимиров Камиль Русланович",
+            "group_id": 26523,
+            "group_": "11109",
+            "leader": false
+        }
+    ],
+    "left_students": [],
+    "leader_status": [],
+    "today": "2024-12-02",
+    "time_difference": "00:10:51",
+    "total_groups": 905,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15309,
+    "total_new_students": 3,
+    "total_deleted_students": 0,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

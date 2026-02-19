@@ -1,0 +1,129 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 2052768,
+            "student": "Мухаметзянов Гадель Рафаэлевич",
+            "group_id": 26129,
+            "group_": "2293",
+            "leader": false
+        },
+        {
+            "student_id": 2063488,
+            "student": "Кудряшов Кирилл Леонидович",
+            "group_id": 26753,
+            "group_": "28103",
+            "leader": false
+        },
+        {
+            "student_id": 2062380,
+            "student": "Валеев Ренат Валерьевич",
+            "group_id": 26845,
+            "group_": "23101",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2048049,
+            "student": "Войт Глеб Тимурович",
+            "leader": false,
+            "group_id": 26538,
+            "group_": "12105",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2047928,
+            "student": "Дурдымырадова Айнур",
+            "leader": false,
+            "group_id": 26544,
+            "group_": "12001",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2047929,
+            "student": "Канаматова Меръем",
+            "leader": false,
+            "group_id": 26544,
+            "group_": "12001",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2046906,
+            "student": "Седунов Никита Александрович",
+            "leader": false,
+            "group_id": 26947,
+            "group_": "8147",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2048346,
+            "student": "Иванов Никита Денисович",
+            "leader": false,
+            "group_id": 25432,
+            "group_": "21102",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2038926,
+            "student": "Мухаметзянов Гадель Рафаэлович",
+            "leader": false,
+            "group_id": 26129,
+            "group_": "2293",
+            "course": 2,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2042054,
+            "student": "Фахрутдинов Даниль Русланович",
+            "leader": false,
+            "group_id": 26489,
+            "group_": "4280",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2045041,
+            "student": "Сафин Ильдар Ильнурович",
+            "leader": false,
+            "group_id": 26553,
+            "group_": "6101",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-07-09",
+    "time_difference": "00:09:20",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13859,
+    "total_new_students": 3,
+    "total_deleted_students": 8,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

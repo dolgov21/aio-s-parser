@@ -1,0 +1,126 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1627472,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1627472,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        },
+        {
+            "student_id": 1629112,
+            "student": "Инаури Данил Паатович",
+            "group_id": 26510,
+            "group_": "11000",
+            "leader": false
+        },
+        {
+            "student_id": 1629616,
+            "student": "Прокопьев Дмитрий Иванович",
+            "group_id": 26546,
+            "group_": "13000",
+            "leader": false
+        },
+        {
+            "student_id": 1629973,
+            "student": "Мефодьев Евгений Константинович",
+            "group_id": 26785,
+            "group_": "21402",
+            "leader": false
+        },
+        {
+            "student_id": 1631480,
+            "student": "Орехова Анна Сергеевна",
+            "group_id": 26831,
+            "group_": "28271",
+            "leader": false
+        },
+        {
+            "student_id": 1631481,
+            "student": "Палкина Наталья Валерьевна",
+            "group_id": 26831,
+            "group_": "28271",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1608706,
+            "student": "Газетдинов Рустам Мирдалифович",
+            "leader": false,
+            "group_id": 26075,
+            "group_": "4323",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1609850,
+            "student": "Степанов Артур",
+            "leader": false,
+            "group_id": 26374,
+            "group_": "5111",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1612580,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1613859,
+            "student": "Цыбиков Мункобатор Норполович",
+            "leader": false,
+            "group_id": 26622,
+            "group_": "8243",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1614591,
+            "student": "Ластовецкий Денис Дмитриевич",
+            "leader": false,
+            "group_id": 26537,
+            "group_": "12104",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-03-28",
+    "time_difference": "00:10:24",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14856,
+    "total_new_students": 6,
+    "total_deleted_students": 5,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

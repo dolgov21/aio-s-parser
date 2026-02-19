@@ -1,0 +1,99 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 716200,
+            "student": "Павлов Дмитрий Сергеевич",
+            "new_group_id": 25732,
+            "old_group_id": 25882,
+            "new_group_": "24371",
+            "old_group_": "1241"
+        },
+        {
+            "student_id": 711970,
+            "student": "Салихов Артём Арсенович",
+            "new_group_id": 25859,
+            "old_group_id": 25882,
+            "new_group_": "6178",
+            "old_group_": "1241"
+        },
+        {
+            "student_id": 703565,
+            "student": "Самигуллин Марат Махмутович",
+            "new_group_id": 26019,
+            "old_group_id": 25960,
+            "new_group_": "1296",
+            "old_group_": "1593"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 716200,
+            "student": "Павлов Дмитрий Сергеевич",
+            "group_id": 25732,
+            "group_": "24371",
+            "leader": false
+        },
+        {
+            "student_id": 711970,
+            "student": "Салихов Артём Арсенович",
+            "group_id": 25859,
+            "group_": "6178",
+            "leader": false
+        },
+        {
+            "student_id": 703565,
+            "student": "Самигуллин Марат Махмутович",
+            "group_id": 26019,
+            "group_": "1296",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 688103,
+            "student": "Павлов Дмитрий Сергеевич",
+            "leader": false,
+            "group_id": 25882,
+            "group_": "1241",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 688108,
+            "student": "Салихов Артём Арсенович",
+            "leader": false,
+            "group_id": 25882,
+            "group_": "1241",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 689267,
+            "student": "Самигуллин Марат Махмутович",
+            "leader": false,
+            "group_id": 25960,
+            "group_": "1593",
+            "course": 5,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-06",
+    "time_difference": "00:11:17",
+    "total_groups": 911,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15130,
+    "total_new_students": 3,
+    "total_deleted_students": 3,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

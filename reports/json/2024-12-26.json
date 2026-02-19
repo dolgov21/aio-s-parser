@@ -1,0 +1,172 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 562834,
+            "student": "Иванов Роман Дмитриевич",
+            "new_group_id": 25341,
+            "old_group_id": 25366,
+            "new_group_": "8311",
+            "old_group_": "8331"
+        },
+        {
+            "student_id": 563548,
+            "student": "Беляков Дмитрий Алексеевич",
+            "new_group_id": 26549,
+            "old_group_id": 26538,
+            "new_group_": "12111",
+            "old_group_": "12105"
+        },
+        {
+            "student_id": 565781,
+            "student": "Ахметов Булат Ринатович",
+            "new_group_id": 26745,
+            "old_group_id": 25364,
+            "new_group_": "28575",
+            "old_group_": "8330"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 562834,
+            "student": "Иванов Роман Дмитриевич",
+            "group_id": 25341,
+            "group_": "8311",
+            "leader": false
+        },
+        {
+            "student_id": 563548,
+            "student": "Беляков Дмитрий Алексеевич",
+            "group_id": 26549,
+            "group_": "12111",
+            "leader": false
+        },
+        {
+            "student_id": 565648,
+            "student": "Ямалтдинов Артур Александрович",
+            "group_id": 26709,
+            "group_": "28405",
+            "leader": false
+        },
+        {
+            "student_id": 565781,
+            "student": "Ахметов Булат Ринатович",
+            "group_id": 26745,
+            "group_": "28575",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 547916,
+            "student": "Ахметов Булат Ринатович",
+            "leader": false,
+            "group_id": 25364,
+            "group_": "8330",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 547860,
+            "student": "Иванов Роман Дмитриевич",
+            "leader": false,
+            "group_id": 25366,
+            "group_": "8331",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 548416,
+            "student": "Беляков Дмитрий Алексеевич",
+            "leader": false,
+            "group_id": 26538,
+            "group_": "12105",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 538330,
+            "student": "Галиев Денис Мударисович",
+            "leader": false,
+            "group_id": 26123,
+            "group_": "2210",
+            "course": 2,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 538367,
+            "student": "Хамидуллин Илья Эдуардович",
+            "leader": false,
+            "group_id": 26126,
+            "group_": "2213",
+            "course": 2,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 538441,
+            "student": "Ражабов Комронбек Мавлон угли",
+            "leader": false,
+            "group_id": 26135,
+            "group_": "2411",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 538619,
+            "student": "Сахаутдинов Билалетдин Ильфатович",
+            "leader": false,
+            "group_id": 26136,
+            "group_": "2412",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 538542,
+            "student": "Хамидов Улугбек Ринат угли",
+            "leader": false,
+            "group_id": 26138,
+            "group_": "2414",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 540416,
+            "student": "Кожевников Данил Юрьевич",
+            "leader": false,
+            "group_id": 26418,
+            "group_": "4120",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-26",
+    "time_difference": "00:10:16",
+    "total_groups": 911,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15160,
+    "total_new_students": 4,
+    "total_deleted_students": 9,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

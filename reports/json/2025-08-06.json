@@ -1,0 +1,58 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2295645,
+            "student": "Алексеев Артём Алексеевич",
+            "new_group_id": 26945,
+            "old_group_id": 26198,
+            "new_group_": "8145",
+            "old_group_": "6408"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2295645,
+            "student": "Алексеев Артём Алексеевич",
+            "group_id": 26945,
+            "group_": "8145",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2281472,
+            "student": "Алексеев Артём Алексеевич",
+            "leader": false,
+            "group_id": 26198,
+            "group_": "6408",
+            "course": 4,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2284114,
+            "student": "Чукашова Рузанна Руслановна",
+            "leader": false,
+            "group_id": 26663,
+            "group_": "24211",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-08-06",
+    "time_difference": "00:09:16",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13795,
+    "total_new_students": 1,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

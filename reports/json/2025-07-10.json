@@ -1,0 +1,124 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2073706,
+            "student": "Джумаев Вепа",
+            "new_group_id": 26171,
+            "old_group_id": 25806,
+            "new_group_": "6238",
+            "old_group_": "1221"
+        },
+        {
+            "student_id": 2073851,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2073706,
+            "student": "Джумаев Вепа",
+            "group_id": 26171,
+            "group_": "6238",
+            "leader": false
+        },
+        {
+            "student_id": 2073851,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        },
+        {
+            "student_id": 2075599,
+            "student": "Волков Артём Брайн",
+            "group_id": 26523,
+            "group_": "11109",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2051251,
+            "student": "Джумаев Вепа",
+            "leader": false,
+            "group_id": 25806,
+            "group_": "1221",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2050493,
+            "student": "Шатов Глеб Александрович",
+            "leader": false,
+            "group_id": 26305,
+            "group_": "1112",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2063060,
+            "student": "Ялалтдинов Альберт Ильдусович",
+            "leader": false,
+            "group_id": 26680,
+            "group_": "24274",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2056654,
+            "student": "Кислицын Игорь Григорьевич",
+            "leader": false,
+            "group_id": 26496,
+            "group_": "4380",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2056677,
+            "student": "Шарафутдинов Ильназ Радикович",
+            "leader": false,
+            "group_id": 26500,
+            "group_": "4384",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2059968,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-07-10",
+    "time_difference": "00:08:55",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13856,
+    "total_new_students": 3,
+    "total_deleted_students": 6,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

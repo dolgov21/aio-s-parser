@@ -1,0 +1,45 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1109635,
+            "student": "Бурмистров Николай Алексеевич",
+            "group_id": 25889,
+            "group_": "1254",
+            "leader": false
+        },
+        {
+            "student_id": 1118669,
+            "student": "Реджепова Гулистан",
+            "group_id": 26167,
+            "group_": "6234",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1094425,
+            "student": "Зокиров Хакимджон Зафарович",
+            "leader": false,
+            "group_id": 25881,
+            "group_": "1231",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-02-08",
+    "time_difference": "00:09:57",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14961,
+    "total_new_students": 2,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

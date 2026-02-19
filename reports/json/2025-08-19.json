@@ -1,0 +1,91 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2359876,
+            "student": "Борисов Никита Игоревич",
+            "new_group_id": 26054,
+            "old_group_id": 26498,
+            "new_group_": "4301",
+            "old_group_": "4382"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2359876,
+            "student": "Борисов Никита Игоревич",
+            "group_id": 26054,
+            "group_": "4301",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2346757,
+            "student": "Борисов Никита Игоревич",
+            "leader": false,
+            "group_id": 26498,
+            "group_": "4382",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2347788,
+            "student": "Петров Антон Сергеевич",
+            "leader": false,
+            "group_id": 26005,
+            "group_": "5184",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2350603,
+            "student": "Сиражетдинов Даниэль Денисович",
+            "leader": false,
+            "group_id": 26796,
+            "group_": "8130",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2350763,
+            "student": "Ермак Виктория Игоревна",
+            "leader": false,
+            "group_id": 26803,
+            "group_": "8143",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2351374,
+            "student": "Иванов Максим Евгеньевич",
+            "leader": false,
+            "group_id": 25357,
+            "group_": "8321",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-08-19",
+    "time_difference": "00:09:34",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13768,
+    "total_new_students": 1,
+    "total_deleted_students": 5,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

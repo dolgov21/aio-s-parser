@@ -1,0 +1,73 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 689267,
+            "student": "Самигуллин Марат Махмутович",
+            "new_group_id": 25960,
+            "old_group_id": 26019,
+            "new_group_": "1593",
+            "old_group_": "1296"
+        },
+        {
+            "student_id": 691751,
+            "student": "Королева Диана Дмитриевна",
+            "new_group_id": 26404,
+            "old_group_id": 26154,
+            "new_group_": "4140",
+            "old_group_": "6210"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 689267,
+            "student": "Самигуллин Марат Махмутович",
+            "group_id": 25960,
+            "group_": "1593",
+            "leader": false
+        },
+        {
+            "student_id": 691751,
+            "student": "Королева Диана Дмитриевна",
+            "group_id": 26404,
+            "group_": "4140",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 673352,
+            "student": "Самигуллин Марат Махмутович",
+            "leader": false,
+            "group_id": 26019,
+            "group_": "1296",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 681739,
+            "student": "Королева Диана Дмитриевна",
+            "leader": false,
+            "group_id": 26154,
+            "group_": "6210",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-05",
+    "time_difference": "00:13:40",
+    "total_groups": 911,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15130,
+    "total_new_students": 2,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

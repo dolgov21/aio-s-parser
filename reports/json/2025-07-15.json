@@ -1,0 +1,96 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [],
+    "left_students": [
+        {
+            "student_id": 2129884,
+            "student": "Барышев Сергей Игоревич",
+            "leader": false,
+            "group_id": 26803,
+            "group_": "8143",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2129989,
+            "student": "Нагайцев Вадим Сергеевич",
+            "leader": false,
+            "group_id": 26948,
+            "group_": "8148",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2130031,
+            "student": "Стышнов Андрей Алексеевич",
+            "leader": false,
+            "group_id": 26951,
+            "group_": "8151",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2132923,
+            "student": "Мухаметшин Айрат Минасхатович",
+            "leader": false,
+            "group_id": 26720,
+            "group_": "28273",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2132710,
+            "student": "Смирнов Александр Александрович",
+            "leader": false,
+            "group_id": 26757,
+            "group_": "28173",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2124224,
+            "student": "Филиппов Станислав Олегович",
+            "leader": false,
+            "group_id": 26485,
+            "group_": "4181",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2127598,
+            "student": "Якимов Павел Андреевич",
+            "leader": false,
+            "group_id": 26339,
+            "group_": "5316",
+            "course": 3,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-07-15",
+    "time_difference": "00:08:51",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13830,
+    "total_new_students": 0,
+    "total_deleted_students": 7,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

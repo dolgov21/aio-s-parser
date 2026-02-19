@@ -1,0 +1,153 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1463723,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26180,
+            "old_group_id": 26203,
+            "new_group_": "6299",
+            "old_group_": "6295"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1466119,
+            "student": "Рыбинов Дмитрий Андреевич",
+            "group_id": 25434,
+            "group_": "21105",
+            "leader": false
+        },
+        {
+            "student_id": 1463723,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26180,
+            "group_": "6299",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1439003,
+            "student": "Васенев Кирилл Константинович",
+            "leader": false,
+            "group_id": 25864,
+            "group_": "1204",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1449882,
+            "student": "Ахунов Ришат Русланович",
+            "leader": false,
+            "group_id": 26608,
+            "group_": "8223",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1449694,
+            "student": "Хазигалеева Евгения Александровна",
+            "leader": false,
+            "group_id": 26951,
+            "group_": "8151",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1452549,
+            "student": "Пономарев Александр Валерьевич",
+            "leader": false,
+            "group_id": 26763,
+            "group_": "28179",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1451278,
+            "student": "Хасанов Риназ Рамисович",
+            "leader": false,
+            "group_id": 26784,
+            "group_": "21401",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1442886,
+            "student": "Карнаух Алексей Леонидович",
+            "leader": false,
+            "group_id": 26436,
+            "group_": "4123",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1445938,
+            "student": "Ахмедов Максат",
+            "leader": false,
+            "group_id": 26367,
+            "group_": "5103",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1446121,
+            "student": "Юн Вадим Станиславович",
+            "leader": false,
+            "group_id": 26378,
+            "group_": "5122",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1448635,
+            "student": "Закиров Арслан",
+            "leader": false,
+            "group_id": 26171,
+            "group_": "6238",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1448762,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26203,
+            "group_": "6295",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-03-11",
+    "time_difference": "00:09:22",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14928,
+    "total_new_students": 2,
+    "total_deleted_students": 10,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

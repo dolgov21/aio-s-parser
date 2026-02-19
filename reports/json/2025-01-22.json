@@ -1,0 +1,147 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 893015,
+            "student": "Аннаев Батыр",
+            "new_group_id": 26997,
+            "old_group_id": 26209,
+            "new_group_": "6124",
+            "old_group_": "3136"
+        },
+        {
+            "student_id": 893050,
+            "student": "Апбасов Хайдар",
+            "new_group_id": 26858,
+            "old_group_id": 26209,
+            "new_group_": "6123",
+            "old_group_": "3136"
+        },
+        {
+            "student_id": 893805,
+            "student": "Гареев Эмиль Эльмирович",
+            "new_group_id": 25962,
+            "old_group_id": 26537,
+            "new_group_": "6278",
+            "old_group_": "12104"
+        },
+        {
+            "student_id": 893910,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 893015,
+            "student": "Аннаев Батыр",
+            "group_id": 26997,
+            "group_": "6124",
+            "leader": false
+        },
+        {
+            "student_id": 893050,
+            "student": "Апбасов Хайдар",
+            "group_id": 26858,
+            "group_": "6123",
+            "leader": false
+        },
+        {
+            "student_id": 893805,
+            "student": "Гареев Эмиль Эльмирович",
+            "group_id": 25962,
+            "group_": "6278",
+            "leader": false
+        },
+        {
+            "student_id": 893910,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 870544,
+            "student": "Норбоев Орифжон Шерзод угли",
+            "leader": false,
+            "group_id": 25946,
+            "group_": "1445",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 880380,
+            "student": "Гареев Эмиль Эльмирович",
+            "leader": false,
+            "group_id": 26537,
+            "group_": "12104",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 871315,
+            "student": "Аннаев Батыр",
+            "leader": false,
+            "group_id": 26209,
+            "group_": "3136",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 871316,
+            "student": "Апбасов Хайдар",
+            "leader": false,
+            "group_id": 26209,
+            "group_": "3136",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 871612,
+            "student": "Стрельникова Эвелина Александровна",
+            "leader": false,
+            "group_id": 26387,
+            "group_": "3190",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 883395,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-22",
+    "time_difference": "00:10:51",
+    "total_groups": 912,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15057,
+    "total_new_students": 4,
+    "total_deleted_students": 6,
+    "total_leader_status": 0,
+    "total_group_changes": 4
+}

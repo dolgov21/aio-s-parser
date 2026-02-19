@@ -1,0 +1,183 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 341164,
+            "student": "Зайнуллин Вадим Валерьевич",
+            "group_id": 26206,
+            "group_": "3131",
+            "leader": false
+        },
+        {
+            "student_id": 341374,
+            "student": "Каримуллин Расуль Минесаитович",
+            "group_id": 26216,
+            "group_": "3144",
+            "leader": false
+        },
+        {
+            "student_id": 343668,
+            "student": "Данатаров Шамырат",
+            "group_id": 26473,
+            "group_": "4199",
+            "leader": false
+        },
+        {
+            "student_id": 344636,
+            "student": "Казмирук Илья Олегович",
+            "group_id": 26054,
+            "group_": "4301",
+            "leader": false
+        },
+        {
+            "student_id": 344641,
+            "student": "Рахимов Тимур Альбертович",
+            "group_id": 26054,
+            "group_": "4301",
+            "leader": false
+        },
+        {
+            "student_id": 348024,
+            "student": "Давронова Гуловсер",
+            "group_id": 26858,
+            "group_": "6123",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 335842,
+            "student": "Мингазов Булат Радикович",
+            "leader": false,
+            "group_id": 26538,
+            "group_": "12105",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 326896,
+            "student": "Баллыев Сейитмырат",
+            "leader": false,
+            "group_id": 26258,
+            "group_": "3344",
+            "course": 3,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 328360,
+            "student": "Реджепбаев Алишер",
+            "leader": false,
+            "group_id": 26022,
+            "group_": "4201",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 328669,
+            "student": "Сапаров Сабир",
+            "leader": false,
+            "group_id": 26038,
+            "group_": "4217",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 327586,
+            "student": "Малиновский Марк Марселевич",
+            "leader": false,
+            "group_id": 26426,
+            "group_": "4110",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 328417,
+            "student": "Данатыров Шамырат",
+            "leader": false,
+            "group_id": 26473,
+            "group_": "4199",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 331708,
+            "student": "Халиков Камиль Альбертович",
+            "leader": false,
+            "group_id": 25999,
+            "group_": "5292",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 332364,
+            "student": "Лубкин Илья Альбертович",
+            "leader": false,
+            "group_id": 26017,
+            "group_": "5572",
+            "course": 5,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 330970,
+            "student": "Бикеев Данила Александрович",
+            "leader": false,
+            "group_id": 26374,
+            "group_": "5111",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 333873,
+            "student": "Кириллов Глеб Игоревич",
+            "leader": false,
+            "group_id": 26190,
+            "group_": "6310",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 338130,
+            "student": "Давранова Гуловсер",
+            "leader": false,
+            "group_id": 26858,
+            "group_": "6123",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-07",
+    "time_difference": "00:09:11",
+    "total_groups": 905,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15248,
+    "total_new_students": 6,
+    "total_deleted_students": 11,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

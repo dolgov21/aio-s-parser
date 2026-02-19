@@ -1,0 +1,99 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1328308,
+            "student": "Насыбуллин Марсель Айратович",
+            "group_id": 26566,
+            "group_": "6194",
+            "leader": false
+        },
+        {
+            "student_id": 1330286,
+            "student": "Которева Ангелина",
+            "group_id": 26612,
+            "group_": "8227",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1303862,
+            "student": "Головина Юта Игоревна",
+            "leader": false,
+            "group_id": 26318,
+            "group_": "1123",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1315277,
+            "student": "Которева Ангелина Сергеевна",
+            "leader": false,
+            "group_id": 26612,
+            "group_": "8227",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1317913,
+            "student": "Татаринов Максим Викторович",
+            "leader": false,
+            "group_id": 26763,
+            "group_": "28179",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1308569,
+            "student": "Мухаметов Искандер Радикович",
+            "leader": false,
+            "group_id": 26485,
+            "group_": "4181",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1310992,
+            "student": "Баданов Павел Павлович",
+            "leader": false,
+            "group_id": 26503,
+            "group_": "4482",
+            "course": 4,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 1328208,
+            "student": "Матиев Данил",
+            "student_group": 26861,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "6133"
+        }
+    ],
+    "today": "2025-02-22",
+    "time_difference": "00:08:52",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15008,
+    "total_new_students": 2,
+    "total_deleted_students": 5,
+    "total_leader_status": 1,
+    "total_group_changes": 0
+}

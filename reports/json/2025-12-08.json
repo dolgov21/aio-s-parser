@@ -1,0 +1,62 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 3146485,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        },
+        {
+            "student_id": 3142301,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 3143890,
+            "student": "Мингазов Булат Радикович",
+            "group_id": 27172,
+            "group_": "12105",
+            "leader": false
+        },
+        {
+            "student_id": 3135073,
+            "student": "Шарипов Эмиль Фаридович",
+            "group_id": 27412,
+            "group_": "4105",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 3117796,
+            "student": "Полетаев Ефим Алексеевич",
+            "leader": false,
+            "group_id": 27447,
+            "group_": "3137",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-12-08",
+    "time_difference": "00:09:30",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15925,
+    "total_new_students": 2,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

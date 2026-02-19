@@ -1,0 +1,133 @@
+{
+    "new_groups": [
+        {
+            "group_id": 26696,
+            "group_": "24181",
+            "course": 4,
+            "institute": 2
+        }
+    ],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 751226,
+            "student": "Сапарлыева Лейли",
+            "group_id": 26232,
+            "group_": "3246",
+            "leader": false
+        },
+        {
+            "student_id": 751763,
+            "student": "Халилова Милана Рустамовна",
+            "group_id": 26267,
+            "group_": "3440",
+            "leader": false
+        },
+        {
+            "student_id": 761306,
+            "student": "Габбасова Чулпан Айдаровна",
+            "group_id": 26696,
+            "group_": "24181",
+            "leader": false
+        },
+        {
+            "student_id": 761307,
+            "student": "Дороткевич Ляйсан Раисовна",
+            "group_id": 26696,
+            "group_": "24181",
+            "leader": false
+        },
+        {
+            "student_id": 761308,
+            "student": "Жемкова Ждана Игоревна",
+            "group_id": 26696,
+            "group_": "24181",
+            "leader": false
+        },
+        {
+            "student_id": 761309,
+            "student": "Зиангиров Максат Анфасович",
+            "group_id": 26696,
+            "group_": "24181",
+            "leader": false
+        },
+        {
+            "student_id": 761310,
+            "student": "Миндубаева Айгуль Ришатовна",
+            "group_id": 26696,
+            "group_": "24181",
+            "leader": false
+        },
+        {
+            "student_id": 761311,
+            "student": "Осипова Дарья Владимировна",
+            "group_id": 26696,
+            "group_": "24181",
+            "leader": false
+        },
+        {
+            "student_id": 761312,
+            "student": "Фирстова Аделя Рустамовна",
+            "group_id": 26696,
+            "group_": "24181",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 743981,
+            "student": "Денисов Дмитрий Олегович",
+            "leader": false,
+            "group_id": 26945,
+            "group_": "8145",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 735394,
+            "student": "Бакиров Камиль Равилевич",
+            "leader": false,
+            "group_id": 26211,
+            "group_": "3138",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 740909,
+            "student": "Ходжанепесов Мердан",
+            "leader": false,
+            "group_id": 25985,
+            "group_": "5212",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 754060,
+            "student": "Уштанит Анастасия Евгеньевна",
+            "student_group": 26063,
+            "leader": false,
+            "status": "demotion",
+            "course": 3,
+            "group_": "4310"
+        }
+    ],
+    "today": "2025-01-11",
+    "time_difference": "00:10:10",
+    "total_groups": 912,
+    "total_new_groups": 1,
+    "total_deleted_groups": 0,
+    "total_students": 15136,
+    "total_new_students": 9,
+    "total_deleted_students": 3,
+    "total_leader_status": 1,
+    "total_group_changes": 0
+}

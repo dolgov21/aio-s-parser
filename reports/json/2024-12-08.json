@@ -1,0 +1,41 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [],
+    "left_students": [
+        {
+            "student_id": 339469,
+            "student": "Сейтиев Исгендер",
+            "leader": false,
+            "group_id": 25889,
+            "group_": "1254",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 339470,
+            "student": "Таджиев Аннамырат",
+            "leader": false,
+            "group_id": 25889,
+            "group_": "1254",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-08",
+    "time_difference": "00:09:21",
+    "total_groups": 905,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15246,
+    "total_new_students": 0,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

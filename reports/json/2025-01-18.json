@@ -1,0 +1,82 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 826473,
+            "student": "Перминов Георгий Эльманович",
+            "group_id": 26393,
+            "group_": "3197",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 809010,
+            "student": "Ахмедова Сойли",
+            "leader": false,
+            "group_id": 25806,
+            "group_": "1221",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 809018,
+            "student": "Илмырадова Сабина",
+            "leader": false,
+            "group_id": 25806,
+            "group_": "1221",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 808815,
+            "student": "Каландаров Бехрузбек Хусинбой огли",
+            "leader": false,
+            "group_id": 25862,
+            "group_": "1201",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 809063,
+            "student": "Атаназаров Умиджан",
+            "leader": false,
+            "group_id": 25878,
+            "group_": "1219",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 811172,
+            "student": "Мырадов Бегенч",
+            "leader": false,
+            "group_id": 26474,
+            "group_": "3148",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-18",
+    "time_difference": "00:11:18",
+    "total_groups": 912,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15070,
+    "total_new_students": 1,
+    "total_deleted_students": 5,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

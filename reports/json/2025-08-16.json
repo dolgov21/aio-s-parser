@@ -1,0 +1,219 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2346757,
+            "student": "Борисов Никита Игоревич",
+            "new_group_id": 26498,
+            "old_group_id": 26054,
+            "new_group_": "4382",
+            "old_group_": "4301"
+        },
+        {
+            "student_id": 2347639,
+            "student": "Шаймарданова Алия Владимировна",
+            "new_group_id": 26373,
+            "old_group_id": 26370,
+            "new_group_": "5116",
+            "old_group_": "5105"
+        },
+        {
+            "student_id": 2350056,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2351374,
+            "student": "Иванов Максим Евгеньевич",
+            "group_id": 25357,
+            "group_": "8321",
+            "leader": false
+        },
+        {
+            "student_id": 2350056,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        },
+        {
+            "student_id": 2340894,
+            "student": "Коротаев Иван Юрьевич",
+            "group_id": 26325,
+            "group_": "1142",
+            "leader": false
+        },
+        {
+            "student_id": 2347639,
+            "student": "Шаймарданова Алия Владимировна",
+            "group_id": 26373,
+            "group_": "5116",
+            "leader": false
+        },
+        {
+            "student_id": 2346757,
+            "student": "Борисов Никита Игоревич",
+            "group_id": 26498,
+            "group_": "4382",
+            "leader": false
+        },
+        {
+            "student_id": 2352887,
+            "student": "Грекова Антонина Дмитриевна",
+            "group_id": 26695,
+            "group_": "24110",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2332000,
+            "student": "Сусуев Семён Андреевич",
+            "leader": false,
+            "group_id": 26578,
+            "group_": "4234",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2332362,
+            "student": "Борисов Никита Игоревич",
+            "leader": false,
+            "group_id": 26054,
+            "group_": "4301",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2332492,
+            "student": "Краснов Артур Александрович",
+            "leader": false,
+            "group_id": 26066,
+            "group_": "4313",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2333781,
+            "student": "Шаймарданова Алия Владимировна",
+            "leader": false,
+            "group_id": 26370,
+            "group_": "5105",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2334077,
+            "student": "Саетова Елена Викторовна",
+            "leader": false,
+            "group_id": 26012,
+            "group_": "5195",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2336263,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2337024,
+            "student": "Халиуллин Оскар Александрович",
+            "leader": false,
+            "group_id": 26946,
+            "group_": "8146",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2337045,
+            "student": "Джапаркулов Турсунбек Азимович",
+            "leader": false,
+            "group_id": 26944,
+            "group_": "8144",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2337184,
+            "student": "Кириллов Егор Максимович",
+            "leader": false,
+            "group_id": 26591,
+            "group_": "8210",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2337392,
+            "student": "Демидова Софья Алексеевна",
+            "leader": false,
+            "group_id": 26612,
+            "group_": "8227",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2337403,
+            "student": "Шленфогт Тимур Андреевич",
+            "leader": false,
+            "group_id": 26612,
+            "group_": "8227",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2337629,
+            "student": "Крылова Дарья Романовна",
+            "leader": false,
+            "group_id": 25359,
+            "group_": "8322",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-08-16",
+    "time_difference": "00:09:40",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13772,
+    "total_new_students": 6,
+    "total_deleted_students": 12,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

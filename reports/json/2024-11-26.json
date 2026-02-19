@@ -1,0 +1,99 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 160538,
+            "student": "Галиев Инсаф Раисович",
+            "new_group_id": 26582,
+            "old_group_id": 26377,
+            "new_group_": "4238",
+            "old_group_": "5108"
+        },
+        {
+            "student_id": 158411,
+            "student": "Попов Андрей Владимирович",
+            "new_group_id": 26252,
+            "old_group_id": 26368,
+            "new_group_": "3337",
+            "old_group_": "5114"
+        },
+        {
+            "student_id": 167124,
+            "student": "Кузьмин Артем Владимирович",
+            "new_group_id": 26510,
+            "old_group_id": 26946,
+            "new_group_": "11000",
+            "old_group_": "8146"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 158411,
+            "student": "Попов Андрей Владимирович",
+            "group_id": 26252,
+            "group_": "3337",
+            "leader": false
+        },
+        {
+            "student_id": 160538,
+            "student": "Галиев Инсаф Раисович",
+            "group_id": 26582,
+            "group_": "4238",
+            "leader": false
+        },
+        {
+            "student_id": 167124,
+            "student": "Кузьмин Артем Владимирович",
+            "group_id": 26510,
+            "group_": "11000",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 150884,
+            "student": "Кузьмин Артем Владимирович",
+            "leader": false,
+            "group_id": 26946,
+            "group_": "8146",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 147178,
+            "student": "Попов Андрей Владимирович",
+            "leader": false,
+            "group_id": 26368,
+            "group_": "5114",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 147146,
+            "student": "Галиев Инсаф Раисович",
+            "leader": false,
+            "group_id": 26377,
+            "group_": "5108",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-11-26",
+    "time_difference": "00:10:12",
+    "total_groups": 904,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15359,
+    "total_new_students": 3,
+    "total_deleted_students": 3,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

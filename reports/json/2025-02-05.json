@@ -1,0 +1,165 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1071357,
+            "student": "Бродовский Павел Олегович",
+            "group_id": 26369,
+            "group_": "5115",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1049309,
+            "student": "Орифов Азамат Алишерович",
+            "leader": false,
+            "group_id": 25868,
+            "group_": "1209",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1049851,
+            "student": "Исмоилов Сиёвуш Сухробович",
+            "leader": false,
+            "group_id": 25897,
+            "group_": "1301",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1049886,
+            "student": "Гаврилова Виктория Дмитриевна",
+            "leader": false,
+            "group_id": 25904,
+            "group_": "1309",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1050028,
+            "student": "Шакиров Анвар",
+            "leader": false,
+            "group_id": 25907,
+            "group_": "1313",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1050044,
+            "student": "Суюнов Аслиддин Урол угли",
+            "leader": false,
+            "group_id": 25911,
+            "group_": "1318",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1050194,
+            "student": "Турчин Антон Евгеньевич",
+            "leader": false,
+            "group_id": 25918,
+            "group_": "1342",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1052558,
+            "student": "Гайнулин Роман Фянисович",
+            "leader": false,
+            "group_id": 26265,
+            "group_": "3438",
+            "course": 4,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1057596,
+            "student": "Шамбазов Реналь Рафаэлевич",
+            "leader": false,
+            "group_id": 26357,
+            "group_": "5424",
+            "course": 4,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1058618,
+            "student": "Джумаев Бегенч",
+            "leader": false,
+            "group_id": 26157,
+            "group_": "6222",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1061533,
+            "student": "Мальцев Максим Анатольевич",
+            "leader": false,
+            "group_id": 26778,
+            "group_": "21475",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 1064826,
+            "student": "Куршев Егор Дмитриевич",
+            "student_group": 25900,
+            "leader": false,
+            "status": "demotion",
+            "course": 3,
+            "group_": "1304"
+        },
+        {
+            "student_id": 1072125,
+            "student": "Гарафутдинов Мурат Ильдарович",
+            "student_group": 26330,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "5305"
+        },
+        {
+            "student_id": 1075665,
+            "student": "Макаров Владислав Александрович",
+            "student_group": 25388,
+            "leader": true,
+            "status": "promotion",
+            "course": 4,
+            "group_": "8412"
+        }
+    ],
+    "today": "2025-02-05",
+    "time_difference": "00:09:10",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14992,
+    "total_new_students": 1,
+    "total_deleted_students": 10,
+    "total_leader_status": 3,
+    "total_group_changes": 0
+}

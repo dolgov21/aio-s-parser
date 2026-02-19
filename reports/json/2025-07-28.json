@@ -1,0 +1,41 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [],
+    "left_students": [
+        {
+            "student_id": 2200805,
+            "student": "Нурмурадов Нурмухаммет",
+            "leader": false,
+            "group_id": 26847,
+            "group_": "23113",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2192776,
+            "student": "Рауф Сафиулла",
+            "leader": false,
+            "group_id": 26426,
+            "group_": "4110",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-07-28",
+    "time_difference": "00:11:18",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13807,
+    "total_new_students": 0,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

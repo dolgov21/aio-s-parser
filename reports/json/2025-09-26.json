@@ -1,0 +1,107 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2688724,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 2691758,
+            "student": "Строкин Илья Андреевич",
+            "new_group_id": 28246,
+            "old_group_id": 27979,
+            "new_group_": "24278",
+            "old_group_": "24277"
+        },
+        {
+            "student_id": 2692935,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2691758,
+            "student": "Строкин Илья Андреевич",
+            "group_id": 28246,
+            "group_": "24278",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2672911,
+            "student": "Мартынов Олег Кириллович",
+            "leader": false,
+            "group_id": 27541,
+            "group_": "8247",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2675277,
+            "student": "Строкин Илья Андреевич",
+            "leader": false,
+            "group_id": 27979,
+            "group_": "24277",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2674678,
+            "student": "Сатлыкова Тавус",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2676719,
+            "student": "Гильманов Рустам Равилевич",
+            "leader": false,
+            "group_id": 28171,
+            "group_": "24174",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2665910,
+            "student": "Кулыев Умыт",
+            "leader": false,
+            "group_id": 27304,
+            "group_": "4207",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-09-26",
+    "time_difference": "00:11:51",
+    "total_groups": 929,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 16454,
+    "total_new_students": 1,
+    "total_deleted_students": 5,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

@@ -1,0 +1,47 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 681739,
+            "student": "Королева Диана Дмитриевна",
+            "new_group_id": 26154,
+            "old_group_id": 26404,
+            "new_group_": "6210",
+            "old_group_": "4140"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 681739,
+            "student": "Королева Диана Дмитриевна",
+            "group_id": 26154,
+            "group_": "6210",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 661719,
+            "student": "Королева Диана Дмитриевна",
+            "leader": false,
+            "group_id": 26404,
+            "group_": "4140",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-04",
+    "time_difference": "00:12:05",
+    "total_groups": 911,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15130,
+    "total_new_students": 1,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

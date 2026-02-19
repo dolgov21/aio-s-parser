@@ -1,0 +1,211 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 584596,
+            "student": "Чарыев Мекан",
+            "new_group_id": 26227,
+            "old_group_id": 26156,
+            "new_group_": "3241",
+            "old_group_": "6221"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 588090,
+            "student": "Витушкин Вячеслав Игоревич",
+            "group_id": 26081,
+            "group_": "4406",
+            "leader": false
+        },
+        {
+            "student_id": 584596,
+            "student": "Чарыев Мекан",
+            "group_id": 26227,
+            "group_": "3241",
+            "leader": false
+        },
+        {
+            "student_id": 595062,
+            "student": "Файзуллин Ильдар Халимович",
+            "group_id": 26669,
+            "group_": "24310",
+            "leader": false
+        },
+        {
+            "student_id": 594203,
+            "student": "Назмутдинов Ренат Гусманович",
+            "group_id": 26778,
+            "group_": "21475",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 577783,
+            "student": "Савельев Михаил Александрович",
+            "leader": false,
+            "group_id": 26619,
+            "group_": "8240",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 568658,
+            "student": "Кадырова Лачын",
+            "leader": false,
+            "group_id": 26128,
+            "group_": "2292",
+            "course": 2,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 569206,
+            "student": "Муринов Никита Александрович",
+            "leader": false,
+            "group_id": 26387,
+            "group_": "3190",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 570192,
+            "student": "Ахметзянов Нияз Маратович",
+            "leader": false,
+            "group_id": 26481,
+            "group_": "3478",
+            "course": 4,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 570201,
+            "student": "Шакирзянов Адель Эльмирович",
+            "leader": false,
+            "group_id": 26481,
+            "group_": "3478",
+            "course": 4,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 572237,
+            "student": "Ясавиев Юсуф Рустамович",
+            "leader": false,
+            "group_id": 26048,
+            "group_": "4293",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 571119,
+            "student": "Мордашова Екатерина Михайловна",
+            "leader": false,
+            "group_id": 26487,
+            "group_": "4183",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 574220,
+            "student": "Илёсов Алишер Ахлиддинович",
+            "leader": false,
+            "group_id": 25979,
+            "group_": "5205",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 574505,
+            "student": "Залялиев Адель Ринатович",
+            "leader": false,
+            "group_id": 25993,
+            "group_": "5282",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 574560,
+            "student": "Алексеев Сергей Вениаминович",
+            "leader": false,
+            "group_id": 26000,
+            "group_": "5294",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 574567,
+            "student": "Харитонов Никита Владимирович",
+            "leader": false,
+            "group_id": 26000,
+            "group_": "5294",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 574132,
+            "student": "Подгорнов Александр Николаевич",
+            "leader": false,
+            "group_id": 26014,
+            "group_": "5197",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 575968,
+            "student": "Бердыев Мердангельды",
+            "leader": false,
+            "group_id": 26151,
+            "group_": "6206",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 576075,
+            "student": "Чарыев Мекан",
+            "leader": false,
+            "group_id": 26156,
+            "group_": "6221",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-28",
+    "time_difference": "00:11:55",
+    "total_groups": 911,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15147,
+    "total_new_students": 4,
+    "total_deleted_students": 14,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

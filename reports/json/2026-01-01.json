@@ -1,0 +1,63 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 3335123,
+            "student": "Галимов Тимур Ринатович",
+            "new_group_id": 28245,
+            "old_group_id": 27406,
+            "new_group_": "24275",
+            "old_group_": "4382"
+        },
+        {
+            "student_id": 3336335,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        },
+        {
+            "student_id": 3332162,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 3335123,
+            "student": "Галимов Тимур Ринатович",
+            "group_id": 28245,
+            "group_": "24275",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 3311782,
+            "student": "Галимов Тимур Ринатович",
+            "leader": false,
+            "group_id": 27406,
+            "group_": "4382",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [],
+    "today": "2026-01-01",
+    "time_difference": "00:10:02",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15757,
+    "total_new_students": 1,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

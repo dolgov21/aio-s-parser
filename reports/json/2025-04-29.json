@@ -1,0 +1,192 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1855951,
+            "student": "Ботиров Диёрбек Баходир угли",
+            "group_id": 26211,
+            "group_": "3138",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1839385,
+            "student": "Ибатуллин Эмиль Маликович",
+            "leader": false,
+            "group_id": 25863,
+            "group_": "1203",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1842031,
+            "student": "Гапурджанов Тахырджан",
+            "leader": false,
+            "group_id": 26231,
+            "group_": "3245",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 1843706,
+            "student": "Ибрагимов Арслан",
+            "leader": false,
+            "group_id": 26023,
+            "group_": "4202",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1844047,
+            "student": "Шамселдин Ибрахим Исмаил Абделхамид Абделфаттах",
+            "leader": false,
+            "group_id": 26038,
+            "group_": "4217",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1844559,
+            "student": "Латипов Райнур Ильшатович",
+            "leader": false,
+            "group_id": 26050,
+            "group_": "4296",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1844552,
+            "student": "Сятрайкин Евгений Георгиевич",
+            "leader": false,
+            "group_id": 26051,
+            "group_": "4297",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1844607,
+            "student": "Лошкарев Михаил Сергеевич",
+            "leader": false,
+            "group_id": 26053,
+            "group_": "4299",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1844609,
+            "student": "Мухаметзянов Камиль Марсович",
+            "leader": false,
+            "group_id": 26053,
+            "group_": "4299",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1846662,
+            "student": "Атакулов Ислам Тендикович",
+            "leader": false,
+            "group_id": 25987,
+            "group_": "5215",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1846817,
+            "student": "Семина Елена Марковна",
+            "leader": false,
+            "group_id": 26001,
+            "group_": "5295",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1846245,
+            "student": "Тарабанчук Дмитрий Артемович",
+            "leader": false,
+            "group_id": 26375,
+            "group_": "5112",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1847575,
+            "student": "Аммар Омран",
+            "leader": false,
+            "group_id": 26556,
+            "group_": "6104",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1847769,
+            "student": "Аманмырадов Довлет",
+            "leader": false,
+            "group_id": 26856,
+            "group_": "6121",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1847908,
+            "student": "Оразгелдиев Хыдыр",
+            "leader": false,
+            "group_id": 26997,
+            "group_": "6124",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1847916,
+            "student": "Ямадов Медет",
+            "leader": false,
+            "group_id": 26997,
+            "group_": "6124",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-04-29",
+    "time_difference": "00:10:16",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14428,
+    "total_new_students": 1,
+    "total_deleted_students": 15,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

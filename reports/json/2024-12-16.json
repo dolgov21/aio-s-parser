@@ -1,0 +1,58 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 432037,
+            "student": "Сухих Максим Евгеньевич",
+            "new_group_id": 26143,
+            "old_group_id": 25859,
+            "new_group_": "2191",
+            "old_group_": "6178"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 432037,
+            "student": "Сухих Максим Евгеньевич",
+            "group_id": 26143,
+            "group_": "2191",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 415601,
+            "student": "Петров Алексей Иванович",
+            "leader": false,
+            "group_id": 25893,
+            "group_": "1259",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 424184,
+            "student": "Сухих Максим Евгеньевич",
+            "leader": false,
+            "group_id": 25859,
+            "group_": "6178",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2024-12-16",
+    "time_difference": "00:09:58",
+    "total_groups": 905,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15174,
+    "total_new_students": 1,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

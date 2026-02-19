@@ -1,0 +1,206 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 576075,
+            "student": "Чарыев Мекан",
+            "new_group_id": 26156,
+            "old_group_id": 26227,
+            "new_group_": "6221",
+            "old_group_": "3241"
+        },
+        {
+            "student_id": 578619,
+            "student": "Беляков Дмитрий Алексеевич",
+            "new_group_id": 26538,
+            "old_group_id": 26549,
+            "new_group_": "12105",
+            "old_group_": "12111"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 568218,
+            "student": "Сергеев Никита Сергеевич",
+            "group_id": 26021,
+            "group_": "1496",
+            "leader": false
+        },
+        {
+            "student_id": 572159,
+            "student": "Латипов Райнур Ильшатович",
+            "group_id": 26050,
+            "group_": "4296",
+            "leader": false
+        },
+        {
+            "student_id": 576075,
+            "student": "Чарыев Мекан",
+            "group_id": 26156,
+            "group_": "6221",
+            "leader": false
+        },
+        {
+            "student_id": 569099,
+            "student": "Гош Ян Ильич",
+            "group_id": 26215,
+            "group_": "3143",
+            "leader": false
+        },
+        {
+            "student_id": 575086,
+            "student": "Гиниятов Ильхам Рустемович",
+            "group_id": 26357,
+            "group_": "5424",
+            "leader": false
+        },
+        {
+            "student_id": 570850,
+            "student": "Крючкович Михаил Сергеевич",
+            "group_id": 26462,
+            "group_": "4162",
+            "leader": false
+        },
+        {
+            "student_id": 578619,
+            "student": "Беляков Дмитрий Алексеевич",
+            "group_id": 26538,
+            "group_": "12105",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 551653,
+            "student": "Закиров Марат Фаридович",
+            "leader": false,
+            "group_id": 25869,
+            "group_": "1210",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 563548,
+            "student": "Беляков Дмитрий Алексеевич",
+            "leader": false,
+            "group_id": 26549,
+            "group_": "12111",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 562386,
+            "student": "Белокопытов Юрий Олегович",
+            "leader": false,
+            "group_id": 26948,
+            "group_": "8148",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 564977,
+            "student": "Сапаров Атаджан",
+            "leader": false,
+            "group_id": 26854,
+            "group_": "28105",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 564978,
+            "student": "Хошыев Батыр",
+            "leader": false,
+            "group_id": 26854,
+            "group_": "28105",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 564979,
+            "student": "Хошыев Максат",
+            "leader": false,
+            "group_id": 26854,
+            "group_": "28105",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 554457,
+            "student": "Чарыев Мекан",
+            "leader": false,
+            "group_id": 26227,
+            "group_": "3241",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 555121,
+            "student": "Пак Андрей Станиславович",
+            "leader": false,
+            "group_id": 26481,
+            "group_": "3478",
+            "course": 4,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 558416,
+            "student": "Политова Анна Максимовна",
+            "leader": false,
+            "group_id": 26503,
+            "group_": "4482",
+            "course": 4,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 562076,
+            "student": "Паранин Савелий Сергеевич",
+            "leader": false,
+            "group_id": 26202,
+            "group_": "6575",
+            "course": 5,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 577778,
+            "student": "Мухтасипова Алина Ильгизовна",
+            "student_group": 26619,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "8240"
+        }
+    ],
+    "today": "2024-12-27",
+    "time_difference": "00:11:49",
+    "total_groups": 911,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15157,
+    "total_new_students": 7,
+    "total_deleted_students": 10,
+    "total_leader_status": 1,
+    "total_group_changes": 2
+}

@@ -1,0 +1,89 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 986349,
+            "student": "Захаров Олег Денисович",
+            "group_id": 25432,
+            "group_": "21102",
+            "leader": false
+        },
+        {
+            "student_id": 987910,
+            "student": "Гарафутдинова Рузалина Ришатовна",
+            "group_id": 26715,
+            "group_": "28202",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 959192,
+            "student": "Путинцев Святослав Алексеевич",
+            "leader": false,
+            "group_id": 26304,
+            "group_": "1157",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 963047,
+            "student": "Тимирбаева Ксения Ринатовна",
+            "leader": false,
+            "group_id": 26430,
+            "group_": "4112",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 964759,
+            "student": "Шишов Илья Вячеславович",
+            "leader": false,
+            "group_id": 26050,
+            "group_": "4296",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 966339,
+            "student": "Гизатуллин Артур Вилданович",
+            "leader": false,
+            "group_id": 26375,
+            "group_": "5112",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 969080,
+            "student": "Садыков Рамиль Риназович",
+            "leader": false,
+            "group_id": 26178,
+            "group_": "6294",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-01-29",
+    "time_difference": "00:10:32",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15001,
+    "total_new_students": 2,
+    "total_deleted_students": 5,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

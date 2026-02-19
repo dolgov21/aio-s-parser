@@ -1,0 +1,71 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 3221695,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 3225835,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 3210546,
+            "student": "Аверин Павел Евгеньевич",
+            "group_id": 27695,
+            "group_": "1118",
+            "leader": false
+        },
+        {
+            "student_id": 3212366,
+            "student": "Гарипов Равиль Рашидович",
+            "group_id": 27797,
+            "group_": "1493",
+            "leader": false
+        },
+        {
+            "student_id": 3214472,
+            "student": "Смирнов Богдан Игоревич",
+            "group_id": 27412,
+            "group_": "4105",
+            "leader": false
+        },
+        {
+            "student_id": 3217830,
+            "student": "Захаров Владимир Иванович",
+            "group_id": 27255,
+            "group_": "5103",
+            "leader": false
+        },
+        {
+            "student_id": 3217994,
+            "student": "Фаткуллин Малик Альбертович",
+            "group_id": 27266,
+            "group_": "5111",
+            "leader": false
+        }
+    ],
+    "left_students": [],
+    "leader_status": [],
+    "today": "2025-12-14",
+    "time_difference": "00:10:35",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15853,
+    "total_new_students": 5,
+    "total_deleted_students": 0,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

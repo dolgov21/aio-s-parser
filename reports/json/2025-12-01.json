@@ -1,0 +1,35 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 3062489,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 3066722,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        }
+    ],
+    "entered_students": [],
+    "left_students": [],
+    "leader_status": [],
+    "today": "2025-12-01",
+    "time_difference": "00:08:49",
+    "total_groups": 934,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 16028,
+    "total_new_students": 0,
+    "total_deleted_students": 0,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

@@ -1,0 +1,30 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [],
+    "left_students": [
+        {
+            "student_id": 1322307,
+            "student": "Щигарев Илья Андреевич",
+            "leader": false,
+            "group_id": 26254,
+            "group_": "3339",
+            "course": 3,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-02-23",
+    "time_difference": "00:09:28",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15007,
+    "total_new_students": 0,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

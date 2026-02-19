@@ -1,0 +1,3483 @@
+{
+    "new_groups": [
+        {
+            "group_id": 27050,
+            "group_": "21107",
+            "course": 1,
+            "institute": 2
+        }
+    ],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2743475,
+            "student": "Каник Икрам",
+            "new_group_id": 27733,
+            "old_group_id": 27732,
+            "new_group_": "1216",
+            "old_group_": "1215"
+        },
+        {
+            "student_id": 2752193,
+            "student": "Анисимов Вадим Валерьевич",
+            "new_group_id": 27843,
+            "old_group_id": 27831,
+            "new_group_": "6195",
+            "old_group_": "6192"
+        },
+        {
+            "student_id": 2752687,
+            "student": "Гурбанов Мекан",
+            "new_group_id": 27096,
+            "old_group_id": 27345,
+            "new_group_": "6232",
+            "old_group_": "4316"
+        },
+        {
+            "student_id": 2753007,
+            "student": "Хусаинов Айрат Ильгизович",
+            "new_group_id": 27110,
+            "old_group_id": 27112,
+            "new_group_": "6302",
+            "old_group_": "6304"
+        },
+        {
+            "student_id": 2753775,
+            "student": "Захаров Артём Олегович",
+            "new_group_id": 28212,
+            "old_group_id": 27898,
+            "new_group_": "8159",
+            "old_group_": "28403"
+        },
+        {
+            "student_id": 2753898,
+            "student": "Недюжий Николай Андреевич",
+            "new_group_id": 28197,
+            "old_group_id": 28236,
+            "new_group_": "8175",
+            "old_group_": "8179"
+        },
+        {
+            "student_id": 2753903,
+            "student": "Рыбаков Егор Александрович",
+            "new_group_id": 28197,
+            "old_group_id": 28236,
+            "new_group_": "8175",
+            "old_group_": "8179"
+        },
+        {
+            "student_id": 2753933,
+            "student": "Хуснутдинов Нияз Илдарович",
+            "new_group_id": 27523,
+            "old_group_id": 27206,
+            "new_group_": "8210",
+            "old_group_": "4234"
+        },
+        {
+            "student_id": 2754507,
+            "student": "Васин Егор Алексеевич",
+            "new_group_id": 27601,
+            "old_group_id": 25339,
+            "new_group_": "8321",
+            "old_group_": "8410"
+        },
+        {
+            "student_id": 2754636,
+            "student": "Чекрышев Виктор Владимирович",
+            "new_group_id": 27608,
+            "old_group_id": 27606,
+            "new_group_": "8342",
+            "old_group_": "8344"
+        },
+        {
+            "student_id": 2754660,
+            "student": "Иванов Роман Дмитриевич",
+            "new_group_id": 27605,
+            "old_group_id": 25342,
+            "new_group_": "8330",
+            "old_group_": "8411"
+        },
+        {
+            "student_id": 2755255,
+            "student": "Кузьмин Артем Владимирович",
+            "new_group_id": 27165,
+            "old_group_id": 27540,
+            "new_group_": "12000",
+            "old_group_": "8246"
+        },
+        {
+            "student_id": 2755999,
+            "student": "Закиров Альфред Евгеньевич",
+            "new_group_id": 28217,
+            "old_group_id": 28012,
+            "new_group_": "23190",
+            "old_group_": "23103"
+        },
+        {
+            "student_id": 2756002,
+            "student": "Кривохижин Николай Олегович",
+            "new_group_id": 28217,
+            "old_group_id": 28012,
+            "new_group_": "23190",
+            "old_group_": "23103"
+        },
+        {
+            "student_id": 2757947,
+            "student": "Захаров Артем Олегович",
+            "new_group_id": 27898,
+            "old_group_id": 28212,
+            "new_group_": "28403",
+            "old_group_": "8159"
+        },
+        {
+            "student_id": 2758523,
+            "student": "Тахиржанов Фахриддин Хуснуддинович",
+            "new_group_id": 27583,
+            "old_group_id": 27581,
+            "new_group_": "8142",
+            "old_group_": "8140"
+        },
+        {
+            "student_id": 2758641,
+            "student": "Ермолаев Матвей Михайлович",
+            "new_group_id": 27584,
+            "old_group_id": 27585,
+            "new_group_": "8143",
+            "old_group_": "8144"
+        },
+        {
+            "student_id": 2758721,
+            "student": "Каримов Даниэль Рустамович",
+            "new_group_id": 27585,
+            "old_group_id": 28211,
+            "new_group_": "8144",
+            "old_group_": "8158"
+        },
+        {
+            "student_id": 2758737,
+            "student": "Гумаров Денис Марселевич",
+            "new_group_id": 28191,
+            "old_group_id": 28208,
+            "new_group_": "8148",
+            "old_group_": "8155"
+        },
+        {
+            "student_id": 2758757,
+            "student": "Юсупов Радлен Ильдарович",
+            "new_group_id": 28191,
+            "old_group_id": 28207,
+            "new_group_": "8148",
+            "old_group_": "8154"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2742667,
+            "student": "Федотов Никита Дмитриевич",
+            "group_id": 27688,
+            "group_": "1111",
+            "leader": false
+        },
+        {
+            "student_id": 2742668,
+            "student": "Филинский Владислав Дмитриевич",
+            "group_id": 27688,
+            "group_": "1111",
+            "leader": false
+        },
+        {
+            "student_id": 2743475,
+            "student": "Каник Икрам",
+            "group_id": 27733,
+            "group_": "1216",
+            "leader": false
+        },
+        {
+            "student_id": 2743779,
+            "student": "Матвеев Олег Русланович",
+            "group_id": 27751,
+            "group_": "1257",
+            "leader": false
+        },
+        {
+            "student_id": 2744068,
+            "student": "Гайфуллина Ралина Салаватовна",
+            "group_id": 26984,
+            "group_": "1319",
+            "leader": false
+        },
+        {
+            "student_id": 2745701,
+            "student": "Корольков Андрей Петрович",
+            "group_id": 27460,
+            "group_": "3193",
+            "leader": false
+        },
+        {
+            "student_id": 2745921,
+            "student": "Толстяков Вадим Константинович",
+            "group_id": 27476,
+            "group_": "3243",
+            "leader": false
+        },
+        {
+            "student_id": 2746284,
+            "student": "Карницкий Артём Русланович",
+            "group_id": 27498,
+            "group_": "3336",
+            "leader": false
+        },
+        {
+            "student_id": 2746498,
+            "student": "Матвеев Альберт Александрович",
+            "group_id": 27511,
+            "group_": "3431",
+            "leader": false
+        },
+        {
+            "student_id": 2746963,
+            "student": "Джаборов Хушбахт Одилович",
+            "group_id": 27675,
+            "group_": "4110",
+            "leader": false
+        },
+        {
+            "student_id": 2746966,
+            "student": "Зайнабиддинов Ислом Кутбиддин угли",
+            "group_id": 27675,
+            "group_": "4110",
+            "leader": false
+        },
+        {
+            "student_id": 2747480,
+            "student": "Лазарев Сергей Сергеевич",
+            "group_id": 27667,
+            "group_": "4163",
+            "leader": false
+        },
+        {
+            "student_id": 2747752,
+            "student": "Гумеров Радмир Булатович",
+            "group_id": 27397,
+            "group_": "4184",
+            "leader": false
+        },
+        {
+            "student_id": 2748540,
+            "student": "Кунгурова Мария Вадимовна",
+            "group_id": 27213,
+            "group_": "4245",
+            "leader": false
+        },
+        {
+            "student_id": 2748541,
+            "student": "Липатов Глеб Александрович",
+            "group_id": 27213,
+            "group_": "4245",
+            "leader": false
+        },
+        {
+            "student_id": 2748575,
+            "student": "Песошина Диана Андреевна",
+            "group_id": 27399,
+            "group_": "4281",
+            "leader": true
+        },
+        {
+            "student_id": 2749308,
+            "student": "Андреева Яна Денисовна",
+            "group_id": 27225,
+            "group_": "4341",
+            "leader": false
+        },
+        {
+            "student_id": 2749660,
+            "student": "Елушев Максим Андреевич",
+            "group_id": 27360,
+            "group_": "4410",
+            "leader": false
+        },
+        {
+            "student_id": 2749964,
+            "student": "Куприянов Артём Сергеевич",
+            "group_id": 27229,
+            "group_": "4433",
+            "leader": false
+        },
+        {
+            "student_id": 2750148,
+            "student": "Политова Анна Максимовна",
+            "group_id": 27428,
+            "group_": "4482",
+            "leader": false
+        },
+        {
+            "student_id": 2750167,
+            "student": "Мурзайкин Роман Вячеславович",
+            "group_id": 27429,
+            "group_": "4483",
+            "leader": false
+        },
+        {
+            "student_id": 2750526,
+            "student": "Чепикова Анна Владимировна",
+            "group_id": 27268,
+            "group_": "5116",
+            "leader": false
+        },
+        {
+            "student_id": 2750598,
+            "student": "Кальметьев Руслан Рустэмович",
+            "group_id": 27801,
+            "group_": "5141",
+            "leader": false
+        },
+        {
+            "student_id": 2751265,
+            "student": "Салыков Тимур Туякбаевич",
+            "group_id": 27632,
+            "group_": "5307",
+            "leader": false
+        },
+        {
+            "student_id": 2751353,
+            "student": "Зубанов Тимофей Александрович",
+            "group_id": 27641,
+            "group_": "5322",
+            "leader": false
+        },
+        {
+            "student_id": 2751470,
+            "student": "Вирич Павел Витальевич",
+            "group_id": 27649,
+            "group_": "5407",
+            "leader": false
+        },
+        {
+            "student_id": 2751879,
+            "student": "Гулаев Исмаил Сапаргельдыевич",
+            "group_id": 27814,
+            "group_": "6103",
+            "leader": false
+        },
+        {
+            "student_id": 2752193,
+            "student": "Анисимов Вадим Валерьевич",
+            "group_id": 27843,
+            "group_": "6195",
+            "leader": false
+        },
+        {
+            "student_id": 2752687,
+            "student": "Гурбанов Мекан",
+            "group_id": 27096,
+            "group_": "6232",
+            "leader": false
+        },
+        {
+            "student_id": 2752952,
+            "student": "Гайнутдинов Тимур Тагирович",
+            "group_id": 27113,
+            "group_": "6306",
+            "leader": false
+        },
+        {
+            "student_id": 2753007,
+            "student": "Хусаинов Айрат Ильгизович",
+            "group_id": 27110,
+            "group_": "6302",
+            "leader": false
+        },
+        {
+            "student_id": 2753008,
+            "student": "Хусаинов Фархат Ильфатович",
+            "group_id": 27110,
+            "group_": "6302",
+            "leader": false
+        },
+        {
+            "student_id": 2753044,
+            "student": "Кириллов Глеб Игоревич",
+            "group_id": 27116,
+            "group_": "6310",
+            "leader": false
+        },
+        {
+            "student_id": 2753114,
+            "student": "Герасимова Мария Сергевна",
+            "group_id": 27115,
+            "group_": "6308",
+            "leader": false
+        },
+        {
+            "student_id": 2753898,
+            "student": "Недюжий Николай Андреевич",
+            "group_id": 28197,
+            "group_": "8175",
+            "leader": false
+        },
+        {
+            "student_id": 2753903,
+            "student": "Рыбаков Егор Александрович",
+            "group_id": 28197,
+            "group_": "8175",
+            "leader": false
+        },
+        {
+            "student_id": 2753933,
+            "student": "Хуснутдинов Нияз Илдарович",
+            "group_id": 27523,
+            "group_": "8210",
+            "leader": false
+        },
+        {
+            "student_id": 2754039,
+            "student": "Александров Александр Евгеньевич",
+            "group_id": 27529,
+            "group_": "8221",
+            "leader": false
+        },
+        {
+            "student_id": 2754093,
+            "student": "Минеев Марк Сергеевич",
+            "group_id": 27528,
+            "group_": "8220",
+            "leader": false
+        },
+        {
+            "student_id": 2754134,
+            "student": "Гимранов Ильяс Вадимович",
+            "group_id": 27530,
+            "group_": "8222",
+            "leader": false
+        },
+        {
+            "student_id": 2754302,
+            "student": "Алтынбаев Роман Русланович",
+            "group_id": 27538,
+            "group_": "8244",
+            "leader": false
+        },
+        {
+            "student_id": 2754343,
+            "student": "Абзаев Фидан Альбертович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754344,
+            "student": "Алиуллин Марат Ринатович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754345,
+            "student": "Бикчурин Алексей Александрович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754347,
+            "student": "Васильев Роман Евгеньевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754351,
+            "student": "Закиев  Ильяр Ильвирович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754352,
+            "student": "Заляев  Ильнур Ильшатович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754354,
+            "student": "Игнатьев Иван Алексеевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754355,
+            "student": "Калинин Матвей Алексеевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754356,
+            "student": "Каримов Ильназ Рамилевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754357,
+            "student": "Карпаев  Ярослав Евгеньевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754360,
+            "student": "Мохначев Дмитрий Валерьевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754361,
+            "student": "Никитин Никита Михайлович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754364,
+            "student": "Рахимов  Хасан Ринатович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754367,
+            "student": "Терентьев Владислав Витальевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754368,
+            "student": "Хучаков Искандар Талбихуджаевич",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754369,
+            "student": "Шайхаттаров Вадим Маратович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754370,
+            "student": "Шаяхметов Шухрат Уралович",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754371,
+            "student": "Юсупова Сабина Ильдаровна",
+            "group_id": 27540,
+            "group_": "8246",
+            "leader": false
+        },
+        {
+            "student_id": 2754437,
+            "student": "Арефьев Владислав Константинович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754439,
+            "student": "Ватутин Егор Сергеевич",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754441,
+            "student": "Гатин Камиль Альбертович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754442,
+            "student": "Денисов Валерий Александрович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754444,
+            "student": "Захаров Роман Дмитриевич",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754445,
+            "student": "Карабаев Бостанбек Султонбекович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754446,
+            "student": "Конькин Арсений Николаевич",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754447,
+            "student": "Коростелев Максим Игоревич",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754448,
+            "student": "Краснов Павел Александрович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754449,
+            "student": "Крат Богдан Александрович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754450,
+            "student": "Нуриддинов Тимур Бахромович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754451,
+            "student": "Орлов Артем Романович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754454,
+            "student": "Танаев Никита Алексеевич",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754457,
+            "student": "Усова Александра Владимировна",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754458,
+            "student": "Хабибов Алмаз Зульфирович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754459,
+            "student": "Хафизов Элемдар Газинурович",
+            "group_id": 27541,
+            "group_": "8247",
+            "leader": false
+        },
+        {
+            "student_id": 2754507,
+            "student": "Васин Егор Алексеевич",
+            "group_id": 27601,
+            "group_": "8321",
+            "leader": false
+        },
+        {
+            "student_id": 2754636,
+            "student": "Чекрышев Виктор Владимирович",
+            "group_id": 27608,
+            "group_": "8342",
+            "leader": false
+        },
+        {
+            "student_id": 2754652,
+            "student": "Бабаев Камиль Маратович",
+            "group_id": 27605,
+            "group_": "8330",
+            "leader": false
+        },
+        {
+            "student_id": 2754660,
+            "student": "Иванов Роман Дмитриевич",
+            "group_id": 27605,
+            "group_": "8330",
+            "leader": false
+        },
+        {
+            "student_id": 2754665,
+            "student": "Незванов Дмитрий Вячеславович",
+            "group_id": 27605,
+            "group_": "8330",
+            "leader": false
+        },
+        {
+            "student_id": 2754668,
+            "student": "Новиков Кирилл Денисович",
+            "group_id": 27605,
+            "group_": "8330",
+            "leader": false
+        },
+        {
+            "student_id": 2754670,
+            "student": "Пузырев Дмитрий Романович",
+            "group_id": 27605,
+            "group_": "8330",
+            "leader": false
+        },
+        {
+            "student_id": 2754678,
+            "student": "Хакимов Адель Рамилевич",
+            "group_id": 27605,
+            "group_": "8330",
+            "leader": false
+        },
+        {
+            "student_id": 2754680,
+            "student": "Ю Тимур Станиславович",
+            "group_id": 27605,
+            "group_": "8330",
+            "leader": false
+        },
+        {
+            "student_id": 2754746,
+            "student": "Зайнуллин Адель Альбертович",
+            "group_id": 25342,
+            "group_": "8411",
+            "leader": false
+        },
+        {
+            "student_id": 2754762,
+            "student": "Лицов Кирилл Андреевич",
+            "group_id": 25339,
+            "group_": "8410",
+            "leader": false
+        },
+        {
+            "student_id": 2755255,
+            "student": "Кузьмин Артем Владимирович",
+            "group_id": 27165,
+            "group_": "12000",
+            "leader": false
+        },
+        {
+            "student_id": 2755266,
+            "student": "Колондёнок Владимир Петрович",
+            "group_id": 27155,
+            "group_": "11111",
+            "leader": false
+        },
+        {
+            "student_id": 2755506,
+            "student": "Губарева Гузель Фаритовна",
+            "group_id": 27202,
+            "group_": "13002",
+            "leader": false
+        },
+        {
+            "student_id": 2755888,
+            "student": "Алиева Татьяна Федоровна",
+            "group_id": 27050,
+            "group_": "21107",
+            "leader": false
+        },
+        {
+            "student_id": 2755889,
+            "student": "Казакова Мария Анатольевна",
+            "group_id": 27050,
+            "group_": "21107",
+            "leader": false
+        },
+        {
+            "student_id": 2755890,
+            "student": "Лобова Галина Юрьевна",
+            "group_id": 27050,
+            "group_": "21107",
+            "leader": false
+        },
+        {
+            "student_id": 2755891,
+            "student": "Моисеева Виктория Сергеевна",
+            "group_id": 27050,
+            "group_": "21107",
+            "leader": false
+        },
+        {
+            "student_id": 2755892,
+            "student": "Хусаинова Лилия Мансуровна",
+            "group_id": 27050,
+            "group_": "21107",
+            "leader": false
+        },
+        {
+            "student_id": 2755999,
+            "student": "Закиров Альфред Евгеньевич",
+            "group_id": 28217,
+            "group_": "23190",
+            "leader": false
+        },
+        {
+            "student_id": 2756002,
+            "student": "Кривохижин Николай Олегович",
+            "group_id": 28217,
+            "group_": "23190",
+            "leader": false
+        },
+        {
+            "student_id": 2757054,
+            "student": "Хикматуллина Милиса Марселевна",
+            "group_id": 27969,
+            "group_": "24405",
+            "leader": false
+        },
+        {
+            "student_id": 2757332,
+            "student": "Салахова Татьяна Сергеевна",
+            "group_id": 28001,
+            "group_": "28171",
+            "leader": false
+        },
+        {
+            "student_id": 2757685,
+            "student": "Шайхлисламов Ильдус Рустамович",
+            "group_id": 27910,
+            "group_": "28276",
+            "leader": false
+        },
+        {
+            "student_id": 2757750,
+            "student": "Шарафутдинова Алия Айдаровна",
+            "group_id": 27892,
+            "group_": "28301",
+            "leader": false
+        },
+        {
+            "student_id": 2757853,
+            "student": "Карташков Никита Вячеславович",
+            "group_id": 27919,
+            "group_": "28377",
+            "leader": false
+        },
+        {
+            "student_id": 2758119,
+            "student": "Авазов Дмитрий Закирович",
+            "group_id": 27934,
+            "group_": "28578",
+            "leader": false
+        },
+        {
+            "student_id": 2758233,
+            "student": "Нагамадзянов Тимур Маратович",
+            "group_id": 27802,
+            "group_": "5142",
+            "leader": false
+        },
+        {
+            "student_id": 2758235,
+            "student": "Речапов Эльдар Рашатович",
+            "group_id": 27802,
+            "group_": "5142",
+            "leader": false
+        },
+        {
+            "student_id": 2758523,
+            "student": "Тахиржанов Фахриддин Хуснуддинович",
+            "group_id": 27583,
+            "group_": "8142",
+            "leader": false
+        },
+        {
+            "student_id": 2758641,
+            "student": "Ермолаев Матвей Михайлович",
+            "group_id": 27584,
+            "group_": "8143",
+            "leader": false
+        },
+        {
+            "student_id": 2758721,
+            "student": "Каримов Даниэль Рустамович",
+            "group_id": 27585,
+            "group_": "8144",
+            "leader": false
+        },
+        {
+            "student_id": 2758737,
+            "student": "Гумаров Денис Марселевич",
+            "group_id": 28191,
+            "group_": "8148",
+            "leader": false
+        },
+        {
+            "student_id": 2758757,
+            "student": "Юсупов Радлен Ильдарович",
+            "group_id": 28191,
+            "group_": "8148",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2739045,
+            "student": "Васин Егор Алексеевич",
+            "leader": false,
+            "group_id": 25339,
+            "group_": "8410",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739047,
+            "student": "Егоров Денис Артемович",
+            "leader": false,
+            "group_id": 25339,
+            "group_": "8410",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739011,
+            "student": "Иванов Роман Дмитриевич",
+            "leader": false,
+            "group_id": 25342,
+            "group_": "8411",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739101,
+            "student": "Фатхуллин Артур Рунарович",
+            "leader": false,
+            "group_id": 25348,
+            "group_": "8413",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738760,
+            "student": "Керимли Алисан Иса оглы",
+            "leader": false,
+            "group_id": 26598,
+            "group_": "8312",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727459,
+            "student": "Шаммыев Эзиз",
+            "leader": false,
+            "group_id": 26972,
+            "group_": "1306",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727759,
+            "student": "Омётов Сергей Константинович",
+            "leader": false,
+            "group_id": 26988,
+            "group_": "1341",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739134,
+            "student": "Тишкин Данила Кириллович",
+            "leader": false,
+            "group_id": 27153,
+            "group_": "11000",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739526,
+            "student": "Матвеева Алина Руслановна",
+            "leader": false,
+            "group_id": 27155,
+            "group_": "11111",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739531,
+            "student": "Сафина Аделя Ринардовна",
+            "leader": false,
+            "group_id": 27155,
+            "group_": "11111",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739448,
+            "student": "Осипов Данил Сергеевич",
+            "leader": false,
+            "group_id": 27156,
+            "group_": "11106",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739571,
+            "student": "Сайфутдинов Адель Ильдарович",
+            "leader": false,
+            "group_id": 27164,
+            "group_": "11110",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739495,
+            "student": "Камалиев Эмиль Ильсурович",
+            "leader": false,
+            "group_id": 27170,
+            "group_": "12103",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739644,
+            "student": "Казачков Андрей Евгеньевич",
+            "leader": false,
+            "group_id": 27175,
+            "group_": "12108",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739880,
+            "student": "Шарипянов Айрат Фирдависович",
+            "leader": false,
+            "group_id": 27184,
+            "group_": "13105",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739780,
+            "student": "Нигматова Гузель Фаритовна",
+            "leader": false,
+            "group_id": 27202,
+            "group_": "13002",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738369,
+            "student": "Лакхал Хосни",
+            "leader": false,
+            "group_id": 27529,
+            "group_": "8221",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738602,
+            "student": "Жегунова Арина Ивановна",
+            "leader": false,
+            "group_id": 27537,
+            "group_": "8243",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738618,
+            "student": "Гайнутдинов Динислам Зуфарович",
+            "leader": false,
+            "group_id": 27540,
+            "group_": "8246",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738624,
+            "student": "Кузьмин Артем Владимирович",
+            "leader": false,
+            "group_id": 27540,
+            "group_": "8246",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737627,
+            "student": "Тахиржанов Фахриддин Хуснуддинович",
+            "leader": false,
+            "group_id": 27581,
+            "group_": "8140",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737602,
+            "student": "Усманов Шамиль Айдарович",
+            "leader": false,
+            "group_id": 27583,
+            "group_": "8142",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737687,
+            "student": "Ермолаев Матвей Михайлович",
+            "leader": false,
+            "group_id": 27585,
+            "group_": "8144",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738865,
+            "student": "Сираева Лилия Фаннуровна",
+            "leader": false,
+            "group_id": 27601,
+            "group_": "8321",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738871,
+            "student": "Шалин Артем Сергеевич",
+            "leader": false,
+            "group_id": 27601,
+            "group_": "8321",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2739077,
+            "student": "Чекрышев Виктор Владимирович",
+            "leader": false,
+            "group_id": 27606,
+            "group_": "8344",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2726099,
+            "student": "Мусин Станислав Михайлович",
+            "leader": false,
+            "group_id": 27684,
+            "group_": "1106",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2726438,
+            "student": "Закиржанова Руфина Тохиржоновна",
+            "leader": false,
+            "group_id": 27695,
+            "group_": "1118",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2726564,
+            "student": "Бутыш Иван Александрович",
+            "leader": false,
+            "group_id": 27701,
+            "group_": "1142",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2726768,
+            "student": "Чарыев Тимурджан",
+            "leader": false,
+            "group_id": 27720,
+            "group_": "1201",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2726888,
+            "student": "Адиуллин Амир Фаилевич",
+            "leader": false,
+            "group_id": 27723,
+            "group_": "1205",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2726983,
+            "student": "Поздеев Михаил Андреевич",
+            "leader": false,
+            "group_id": 27730,
+            "group_": "1213",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727009,
+            "student": "Каник Икрам",
+            "leader": false,
+            "group_id": 27732,
+            "group_": "1215",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727086,
+            "student": "Араужо Маттос Памела",
+            "leader": false,
+            "group_id": 27733,
+            "group_": "1216",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727191,
+            "student": "Медеминов Мердан",
+            "leader": false,
+            "group_id": 27739,
+            "group_": "1231",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727307,
+            "student": "Валиев Руслан Ирекович",
+            "leader": false,
+            "group_id": 27752,
+            "group_": "1258",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727316,
+            "student": "Неволина Екатерина Михайловна",
+            "leader": false,
+            "group_id": 27752,
+            "group_": "1258",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727401,
+            "student": "Степанова Аделина Маратовна",
+            "leader": false,
+            "group_id": 27755,
+            "group_": "1262",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2727364,
+            "student": "Гайнанов Марсель Рустемович",
+            "leader": false,
+            "group_id": 27756,
+            "group_": "1266",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738058,
+            "student": "Арсланов Фанис Фанзилевич",
+            "leader": false,
+            "group_id": 28187,
+            "group_": "8170",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738185,
+            "student": "Гороскин Иван Дмитриевич",
+            "leader": false,
+            "group_id": 28194,
+            "group_": "8172",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738198,
+            "student": "Рахманов Данил Ильгизович",
+            "leader": false,
+            "group_id": 28194,
+            "group_": "8172",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738199,
+            "student": "Санников Егор Олегович",
+            "leader": false,
+            "group_id": 28194,
+            "group_": "8172",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738125,
+            "student": "Савинов Кирилл Юрьевич",
+            "leader": false,
+            "group_id": 28195,
+            "group_": "8173",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738128,
+            "student": "Феттер Савелий Олегович",
+            "leader": false,
+            "group_id": 28195,
+            "group_": "8173",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738132,
+            "student": "Андреев Захар Михайлович",
+            "leader": false,
+            "group_id": 28196,
+            "group_": "8174",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738215,
+            "student": "Крюков Алексей Андреевич",
+            "leader": false,
+            "group_id": 28197,
+            "group_": "8175",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738225,
+            "student": "Уколов Никита Андреевич",
+            "leader": false,
+            "group_id": 28197,
+            "group_": "8175",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738228,
+            "student": "Амирханов Юсуф Мирзосултонович",
+            "leader": false,
+            "group_id": 28199,
+            "group_": "8177",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738248,
+            "student": "Сахбиев Марат Рустемович",
+            "leader": false,
+            "group_id": 28199,
+            "group_": "8177",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738344,
+            "student": "Кириченко Ярослав Андреевич",
+            "leader": false,
+            "group_id": 28200,
+            "group_": "8178",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737846,
+            "student": "Мальшаков Рустам Александрович",
+            "leader": false,
+            "group_id": 28202,
+            "group_": "8149",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737847,
+            "student": "Новиков Богдан Александрович",
+            "leader": false,
+            "group_id": 28202,
+            "group_": "8149",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737760,
+            "student": "Петров Александр Валерьевич",
+            "leader": false,
+            "group_id": 28203,
+            "group_": "8150",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737763,
+            "student": "Саидов Имам Низомович",
+            "leader": false,
+            "group_id": 28203,
+            "group_": "8150",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737766,
+            "student": "Шамсутдинова Эвелина Эмилевна",
+            "leader": false,
+            "group_id": 28203,
+            "group_": "8150",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737776,
+            "student": "Кузнецов Никита Александрович",
+            "leader": false,
+            "group_id": 28204,
+            "group_": "8151",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737790,
+            "student": "Ваганов Матвей Алексеевич",
+            "leader": false,
+            "group_id": 28205,
+            "group_": "8152",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737791,
+            "student": "Вакульский Егор Артурович",
+            "leader": false,
+            "group_id": 28205,
+            "group_": "8152",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737793,
+            "student": "Горячев Даниил Александрович",
+            "leader": false,
+            "group_id": 28205,
+            "group_": "8152",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737858,
+            "student": "Валишин Ильдар Ильшатович",
+            "leader": false,
+            "group_id": 28207,
+            "group_": "8154",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737870,
+            "student": "Никифоров Ярослав Романович",
+            "leader": false,
+            "group_id": 28207,
+            "group_": "8154",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737871,
+            "student": "Петров Денис Димитриевич",
+            "leader": false,
+            "group_id": 28207,
+            "group_": "8154",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737879,
+            "student": "Юсупов Радлен Ильдарович",
+            "leader": false,
+            "group_id": 28207,
+            "group_": "8154",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737961,
+            "student": "Гумаров Денис Марселевич",
+            "leader": false,
+            "group_id": 28208,
+            "group_": "8155",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737971,
+            "student": "Матвеев Дмитрий Евгеньевич",
+            "leader": false,
+            "group_id": 28208,
+            "group_": "8155",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737947,
+            "student": "Мухаметшин Динар Ривалович",
+            "leader": false,
+            "group_id": 28209,
+            "group_": "8156",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737949,
+            "student": "Попов Егор Игоревич",
+            "leader": false,
+            "group_id": 28209,
+            "group_": "8156",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737882,
+            "student": "Бакиев Егор Геннадьевич",
+            "leader": false,
+            "group_id": 28210,
+            "group_": "8157",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737893,
+            "student": "Насиров Нияз Ленарович",
+            "leader": false,
+            "group_id": 28210,
+            "group_": "8157",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737911,
+            "student": "Горин Роман Станиславович",
+            "leader": false,
+            "group_id": 28211,
+            "group_": "8158",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737915,
+            "student": "Каримов Даниэль Рустамович",
+            "leader": false,
+            "group_id": 28211,
+            "group_": "8158",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737916,
+            "student": "Кураев Тимур Алексеевич",
+            "leader": false,
+            "group_id": 28211,
+            "group_": "8158",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2737918,
+            "student": "Муллаяров Амир Робертович",
+            "leader": false,
+            "group_id": 28211,
+            "group_": "8158",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738010,
+            "student": "Борисов Егор Алексеевич",
+            "leader": false,
+            "group_id": 28213,
+            "group_": "8160",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738017,
+            "student": "Махмудов Ранэль Саловатович",
+            "leader": false,
+            "group_id": 28213,
+            "group_": "8160",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738020,
+            "student": "Паркин Ростислав Евгеньевич",
+            "leader": false,
+            "group_id": 28213,
+            "group_": "8160",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738026,
+            "student": "Тынкасов Егор Николаевич",
+            "leader": false,
+            "group_id": 28213,
+            "group_": "8160",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738030,
+            "student": "Шарафиев Азамат Ильназович",
+            "leader": false,
+            "group_id": 28213,
+            "group_": "8160",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738084,
+            "student": "Анисимов Вячеслав Дмитриевич",
+            "leader": false,
+            "group_id": 28215,
+            "group_": "8162",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738103,
+            "student": "Сойнов Антон Андреевич",
+            "leader": false,
+            "group_id": 28215,
+            "group_": "8162",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738271,
+            "student": "Недюжий Николай Андреевич",
+            "leader": false,
+            "group_id": 28236,
+            "group_": "8179",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2738273,
+            "student": "Рыбаков Егор Александрович",
+            "leader": false,
+            "group_id": 28236,
+            "group_": "8179",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2741896,
+            "student": "Велюков Ринат Камилевич",
+            "leader": false,
+            "group_id": 27890,
+            "group_": "28206",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2742026,
+            "student": "Гарафетдинова Алия Айдаровна",
+            "leader": false,
+            "group_id": 27892,
+            "group_": "28301",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2742436,
+            "student": "Киселев Данила Вячеславович",
+            "leader": false,
+            "group_id": 27931,
+            "group_": "28575",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2741522,
+            "student": "Сахибуллин Айназ Флюрович",
+            "leader": false,
+            "group_id": 27940,
+            "group_": "28102",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2741716,
+            "student": "Гильфанов Эдуард Маратович",
+            "leader": false,
+            "group_id": 27948,
+            "group_": "28175",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2741370,
+            "student": "Иблеева Милиса Марселевна",
+            "leader": false,
+            "group_id": 27969,
+            "group_": "24405",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2741021,
+            "student": "Танылбаев Альберт Вохидович",
+            "leader": false,
+            "group_id": 27976,
+            "group_": "24272",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2741635,
+            "student": "Дементьева Татьяна Сергеевна",
+            "leader": false,
+            "group_id": 28001,
+            "group_": "28171",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740275,
+            "student": "Мартынов Герман Евгеньевич",
+            "leader": false,
+            "group_id": 28011,
+            "group_": "23101",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740242,
+            "student": "Закиров Альфред Евгеньевич",
+            "leader": false,
+            "group_id": 28012,
+            "group_": "23103",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740246,
+            "student": "Кривохижин Николай Олегович",
+            "leader": false,
+            "group_id": 28012,
+            "group_": "23103",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740254,
+            "student": "Шаймарданова Эльвина Рашитовна",
+            "leader": false,
+            "group_id": 28012,
+            "group_": "23103",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740314,
+            "student": "Гильманов Газиз Заудатович",
+            "leader": false,
+            "group_id": 28013,
+            "group_": "23104",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740420,
+            "student": "Сабирова Айгуль Миннеахметовна",
+            "leader": false,
+            "group_id": 28020,
+            "group_": "23270",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740440,
+            "student": "Андриевский Данил Максимович",
+            "leader": false,
+            "group_id": 28035,
+            "group_": "23203",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740446,
+            "student": "Гарифуллин  Ранэль Радикович",
+            "leader": false,
+            "group_id": 28035,
+            "group_": "23203",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740454,
+            "student": "Магизова Аделина Ильсуровна",
+            "leader": false,
+            "group_id": 28035,
+            "group_": "23203",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740465,
+            "student": "Агамухаммедова Айджемал",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740466,
+            "student": "Аллаберенов Джумамырат",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740469,
+            "student": "Багтыяров Бабаджан",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740473,
+            "student": "Довранов Мекан",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740476,
+            "student": "Сеидов Гурбангелди",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740482,
+            "student": "Ялкапов Азат",
+            "leader": false,
+            "group_id": 28036,
+            "group_": "23213",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740494,
+            "student": "Байрамов Айназар",
+            "leader": false,
+            "group_id": 28037,
+            "group_": "23301",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740498,
+            "student": "Нурягдыев Мекан",
+            "leader": false,
+            "group_id": 28037,
+            "group_": "23301",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740499,
+            "student": "Пирназаров Реджеп",
+            "leader": false,
+            "group_id": 28037,
+            "group_": "23301",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740502,
+            "student": "Сеидова Эркинай",
+            "leader": false,
+            "group_id": 28037,
+            "group_": "23301",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740636,
+            "student": "Егоров Тимофей Алексеевич",
+            "leader": false,
+            "group_id": 28042,
+            "group_": "23403",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740111,
+            "student": "Акифьев Степан Сергеевич",
+            "leader": false,
+            "group_id": 28049,
+            "group_": "21205",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740763,
+            "student": "Евдокимов Анатолий Константинович",
+            "leader": false,
+            "group_id": 28165,
+            "group_": "24101",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740813,
+            "student": "Шарыгин Александр Сергеевич",
+            "leader": false,
+            "group_id": 28171,
+            "group_": "24174",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740849,
+            "student": "Чаповая Анастасия Александровна",
+            "leader": false,
+            "group_id": 28172,
+            "group_": "24176",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2740341,
+            "student": "Бекасов Дмитрий Александрович",
+            "leader": false,
+            "group_id": 28217,
+            "group_": "23190",
+            "course": 3,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2741602,
+            "student": "Архипов Даниил Александрович",
+            "leader": false,
+            "group_id": 28224,
+            "group_": "28109",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2741614,
+            "student": "Сафин Артем Ильнурович",
+            "leader": false,
+            "group_id": 28224,
+            "group_": "28109",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2728964,
+            "student": "Семенов Даниил Алексеевич",
+            "leader": false,
+            "group_id": 27437,
+            "group_": "3130",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729002,
+            "student": "Базаров Юмжап Жаргалович",
+            "leader": false,
+            "group_id": 27446,
+            "group_": "3136",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729144,
+            "student": "Гибадуллин Марсель Рафильевич",
+            "leader": false,
+            "group_id": 27450,
+            "group_": "3140",
+            "course": 1,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729496,
+            "student": "Маммедова Айгозел",
+            "leader": false,
+            "group_id": 27474,
+            "group_": "3240",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729501,
+            "student": "Сытдыхова Лейли",
+            "leader": false,
+            "group_id": 27474,
+            "group_": "3240",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729574,
+            "student": "Атагулыев Комек",
+            "leader": false,
+            "group_id": 27478,
+            "group_": "3248",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729585,
+            "student": "Мухамметгурбанов Байрамгелди",
+            "leader": false,
+            "group_id": 27478,
+            "group_": "3248",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729734,
+            "student": "Багаутдинов Булат Ринатович",
+            "leader": false,
+            "group_id": 27488,
+            "group_": "3295",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729787,
+            "student": "Дурдыбаев Ровшен",
+            "leader": false,
+            "group_id": 27494,
+            "group_": "3331",
+            "course": 3,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729955,
+            "student": "Черраев Гуванч",
+            "leader": false,
+            "group_id": 27502,
+            "group_": "3340",
+            "course": 3,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729957,
+            "student": "Ягшымурадов Агаджан",
+            "leader": false,
+            "group_id": 27502,
+            "group_": "3340",
+            "course": 3,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2729913,
+            "student": "Гараев Альберт Азатович",
+            "leader": false,
+            "group_id": 27504,
+            "group_": "3342",
+            "course": 3,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2731916,
+            "student": "Хуснутдинов Нияз Илдарович",
+            "leader": false,
+            "group_id": 27206,
+            "group_": "4234",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732042,
+            "student": "Бондарь Андрей Андреевич",
+            "leader": false,
+            "group_id": 27212,
+            "group_": "4242",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732121,
+            "student": "Гусев Ростислав Владиславович",
+            "leader": false,
+            "group_id": 27213,
+            "group_": "4245",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732122,
+            "student": "Зайдуллин Ильназ Камилевич",
+            "leader": false,
+            "group_id": 27213,
+            "group_": "4245",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732136,
+            "student": "Хакимов Булат Наилевич",
+            "leader": false,
+            "group_id": 27213,
+            "group_": "4245",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732831,
+            "student": "Алыков Аслан Ильдарович",
+            "leader": false,
+            "group_id": 27215,
+            "group_": "4331",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732840,
+            "student": "Гиясов Искандер Музафарович",
+            "leader": false,
+            "group_id": 27215,
+            "group_": "4331",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732855,
+            "student": "Шильников Данил Алексеевич",
+            "leader": false,
+            "group_id": 27215,
+            "group_": "4331",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732877,
+            "student": "Сафина Алия Юнусовна",
+            "leader": false,
+            "group_id": 27218,
+            "group_": "4334",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732827,
+            "student": "Фарваев Амаль Рамилевич",
+            "leader": false,
+            "group_id": 27219,
+            "group_": "4335",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2733009,
+            "student": "Самигулин Дамир Олегович",
+            "leader": false,
+            "group_id": 27222,
+            "group_": "4338",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2733524,
+            "student": "Степанов Эмиль Андреевич",
+            "leader": false,
+            "group_id": 27228,
+            "group_": "4432",
+            "course": 4,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731553,
+            "student": "Зайнуллин Марсель Романович",
+            "leader": false,
+            "group_id": 27299,
+            "group_": "4202",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731576,
+            "student": "Габитова Камилла Шаукатовна",
+            "leader": false,
+            "group_id": 27301,
+            "group_": "4204",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731664,
+            "student": "Кадыров Довран",
+            "leader": false,
+            "group_id": 27304,
+            "group_": "4207",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731665,
+            "student": "Матназаров Ыхтияр",
+            "leader": false,
+            "group_id": 27304,
+            "group_": "4207",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731673,
+            "student": "Ханеков Максат",
+            "leader": false,
+            "group_id": 27304,
+            "group_": "4207",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731618,
+            "student": "Маурисиу Луиш Мигель Баптишта",
+            "leader": false,
+            "group_id": 27305,
+            "group_": "4208",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731681,
+            "student": "Жоау Кене Де Арагау",
+            "leader": false,
+            "group_id": 27307,
+            "group_": "4210",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731713,
+            "student": "Хальфин Искандер Раджевич",
+            "leader": false,
+            "group_id": 27308,
+            "group_": "4211",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731719,
+            "student": "Галиуллин Роберт Рустемович",
+            "leader": false,
+            "group_id": 27309,
+            "group_": "4212",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731727,
+            "student": "Пантелеев Кирилл Николаевич",
+            "leader": false,
+            "group_id": 27309,
+            "group_": "4212",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731849,
+            "student": "Хабибуллин Эльдар Айдарович",
+            "leader": false,
+            "group_id": 27317,
+            "group_": "4223",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732374,
+            "student": "Столяров Илья Сергеевич",
+            "leader": false,
+            "group_id": 27328,
+            "group_": "4298",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732479,
+            "student": "Фирсов Егор Алексеевич",
+            "leader": false,
+            "group_id": 27331,
+            "group_": "4302",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732638,
+            "student": "Загайнов Иван Александрович",
+            "leader": false,
+            "group_id": 27342,
+            "group_": "4313",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732640,
+            "student": "Исмагилов Гадель Алмасович",
+            "leader": false,
+            "group_id": 27342,
+            "group_": "4313",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732707,
+            "student": "Батыров Довран",
+            "leader": false,
+            "group_id": 27343,
+            "group_": "4314",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732680,
+            "student": "Гурбанов Мекан",
+            "leader": false,
+            "group_id": 27345,
+            "group_": "4316",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732690,
+            "student": "Рустамов Агаджан",
+            "leader": false,
+            "group_id": 27345,
+            "group_": "4316",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732778,
+            "student": "Авзалов Ильяс Ильмирович",
+            "leader": false,
+            "group_id": 27350,
+            "group_": "4323",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2733335,
+            "student": "Аввакумов Амир Николаевич",
+            "leader": false,
+            "group_id": 27360,
+            "group_": "4410",
+            "course": 4,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2733343,
+            "student": "Рагехи Али Талиб Хлайф",
+            "leader": false,
+            "group_id": 27360,
+            "group_": "4410",
+            "course": 4,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731243,
+            "student": "Хасаншин Булат Зульфатович",
+            "leader": false,
+            "group_id": 27393,
+            "group_": "4180",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731198,
+            "student": "Гарифуллин Раиль Раисович",
+            "leader": false,
+            "group_id": 27395,
+            "group_": "4182",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731277,
+            "student": "Яруллина Зарина Фаритовна",
+            "leader": false,
+            "group_id": 27396,
+            "group_": "4183",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2732176,
+            "student": "Аристова Диана Андреевна",
+            "leader": true,
+            "group_id": 27399,
+            "group_": "4281",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2733148,
+            "student": "Хасанов Айрас Раифович",
+            "leader": false,
+            "group_id": 27405,
+            "group_": "4381",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2730436,
+            "student": "Юнусов Булат Айратович",
+            "leader": false,
+            "group_id": 27411,
+            "group_": "4103",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2730463,
+            "student": "Спиридонов Альберт Тимурович",
+            "leader": false,
+            "group_id": 27414,
+            "group_": "4104",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2730726,
+            "student": "Соловьев Тимур Аркадьевич",
+            "leader": false,
+            "group_id": 27421,
+            "group_": "4115",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2731082,
+            "student": "Лазарев Сергей",
+            "leader": false,
+            "group_id": 27667,
+            "group_": "4163",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2730567,
+            "student": "Кравченко Евгений Михайлович",
+            "leader": false,
+            "group_id": 27676,
+            "group_": "4111",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2730863,
+            "student": "Тихонова Анна Сергеевна",
+            "leader": false,
+            "group_id": 27869,
+            "group_": "4134",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2734194,
+            "student": "Ветрюк Василиса Сергеевна",
+            "leader": false,
+            "group_id": 27260,
+            "group_": "5114",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2733978,
+            "student": "Василов Камиль Алмазович",
+            "leader": false,
+            "group_id": 27262,
+            "group_": "5105",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2734466,
+            "student": "Яхин Карим Русланович",
+            "leader": false,
+            "group_id": 27612,
+            "group_": "5203",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2734636,
+            "student": "Шилинцев Арсений Михайлович",
+            "leader": false,
+            "group_id": 27619,
+            "group_": "5211",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2734713,
+            "student": "Валиев Амир Алмазович",
+            "leader": false,
+            "group_id": 27624,
+            "group_": "5222",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2734744,
+            "student": "Миннибаев Арслан Уралович",
+            "leader": false,
+            "group_id": 27625,
+            "group_": "5224",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2734940,
+            "student": "Ерохондина Валерия Артёмовна",
+            "leader": false,
+            "group_id": 27630,
+            "group_": "5305",
+            "course": 3,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2735175,
+            "student": "Пьянзин Андрей Сергеевич",
+            "leader": false,
+            "group_id": 27644,
+            "group_": "5401",
+            "course": 4,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2735245,
+            "student": "Ибрашев Марат Радикович",
+            "leader": false,
+            "group_id": 27649,
+            "group_": "5407",
+            "course": 4,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2734304,
+            "student": "Галеева Лия Эмилевна",
+            "leader": false,
+            "group_id": 27802,
+            "group_": "5142",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2734311,
+            "student": "Макаров Никита Сергеевич",
+            "leader": false,
+            "group_id": 27802,
+            "group_": "5142",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2736129,
+            "student": "Сарыгулов Гуйзджан",
+            "leader": false,
+            "group_id": 27081,
+            "group_": "6201",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736283,
+            "student": "Гурьянова Кристина Вячеславовна",
+            "leader": false,
+            "group_id": 27085,
+            "group_": "6206",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736383,
+            "student": "Туйлиев Гарягды",
+            "leader": false,
+            "group_id": 27091,
+            "group_": "6221",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736394,
+            "student": "Атаев Арслан",
+            "leader": false,
+            "group_id": 27092,
+            "group_": "6222",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736424,
+            "student": "Байрамов Мерген",
+            "leader": false,
+            "group_id": 27094,
+            "group_": "6224",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736473,
+            "student": "Этчанов Анварбек",
+            "leader": false,
+            "group_id": 27095,
+            "group_": "6231",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736789,
+            "student": "Мирзахметов Фархат Ильфатович",
+            "leader": false,
+            "group_id": 27110,
+            "group_": "6302",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736729,
+            "student": "Кузнецов Григорий Егорович",
+            "leader": false,
+            "group_id": 27111,
+            "group_": "6303",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736754,
+            "student": "Хусаинов Айрат Ильгизович",
+            "leader": false,
+            "group_id": 27112,
+            "group_": "6304",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736848,
+            "student": "Григорьева Мария Сергеевна",
+            "leader": false,
+            "group_id": 27115,
+            "group_": "6308",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736865,
+            "student": "Чжао Шо",
+            "leader": false,
+            "group_id": 27115,
+            "group_": "6308",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736872,
+            "student": "Велланов Агаджан",
+            "leader": false,
+            "group_id": 27119,
+            "group_": "6322",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736882,
+            "student": "Сапаров Солтанмырат",
+            "leader": false,
+            "group_id": 27119,
+            "group_": "6322",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2736999,
+            "student": "Мыратлыев Какамырат",
+            "leader": false,
+            "group_id": 27126,
+            "group_": "6331",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2737043,
+            "student": "Чопанов Довран",
+            "leader": false,
+            "group_id": 27129,
+            "group_": "6334",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2737173,
+            "student": "Калынов Реджепназар",
+            "leader": false,
+            "group_id": 27134,
+            "group_": "6341",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2737179,
+            "student": "Нутыев Сердар",
+            "leader": false,
+            "group_id": 27134,
+            "group_": "6341",
+            "course": 3,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2737347,
+            "student": "Уваров Владимир Андреевич",
+            "leader": false,
+            "group_id": 27144,
+            "group_": "6408",
+            "course": 4,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2735616,
+            "student": "Гулаев Исмаил Сапаргелдиевич",
+            "leader": false,
+            "group_id": 27814,
+            "group_": "6103",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2735752,
+            "student": "Агаджанов Ашхабад",
+            "leader": false,
+            "group_id": 27824,
+            "group_": "6108",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2735778,
+            "student": "Сопиев Шатлык",
+            "leader": false,
+            "group_id": 27824,
+            "group_": "6108",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2735728,
+            "student": "Спиридонов Евгений Андреевич",
+            "leader": false,
+            "group_id": 27828,
+            "group_": "6110",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2735980,
+            "student": "Анисимов Вадим Валерьевич",
+            "leader": true,
+            "group_id": 27831,
+            "group_": "6192",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 2744091,
+            "student": "Фэн Чэньси",
+            "student_group": 27839,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "1322"
+        },
+        {
+            "student_id": 2744103,
+            "student": "Чжао Сюэцзюнь",
+            "student_group": 27866,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "1320"
+        },
+        {
+            "student_id": 2746810,
+            "student": "Алимов Нияз Ленарович",
+            "student_group": 27413,
+            "leader": true,
+            "status": "promotion",
+            "course": 1,
+            "group_": "4106"
+        },
+        {
+            "student_id": 2746811,
+            "student": "Анисимова Елена Аркадьевна",
+            "student_group": 27413,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "4106"
+        },
+        {
+            "student_id": 2747492,
+            "student": "Бойко Добрыня Владимирович",
+            "student_group": 27432,
+            "leader": true,
+            "status": "promotion",
+            "course": 1,
+            "group_": "4167"
+        },
+        {
+            "student_id": 2747493,
+            "student": "Габитова Альфия Рустемовна",
+            "student_group": 27432,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "4167"
+        },
+        {
+            "student_id": 2748408,
+            "student": "Филатов Данила Андреевич",
+            "student_group": 27209,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "4237"
+        },
+        {
+            "student_id": 2748438,
+            "student": "Тумасов Марк Дмитриевич",
+            "student_group": 27208,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "4236"
+        },
+        {
+            "student_id": 2748439,
+            "student": "Шамсетдинова Мадина Айратовна",
+            "student_group": 27208,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "4236"
+        },
+        {
+            "student_id": 2749262,
+            "student": "Тимирбаева Алия Ясавиевна",
+            "student_group": 27218,
+            "leader": false,
+            "status": "demotion",
+            "course": 3,
+            "group_": "4334"
+        },
+        {
+            "student_id": 2750726,
+            "student": "Насырова Самира Рустамовна",
+            "student_group": 27612,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "5203"
+        },
+        {
+            "student_id": 2750729,
+            "student": "Ророха Матвей Максимович",
+            "student_group": 27612,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "5203"
+        },
+        {
+            "student_id": 2751280,
+            "student": "Поповченко Александр Дмитриевич",
+            "student_group": 27636,
+            "leader": false,
+            "status": "demotion",
+            "course": 3,
+            "group_": "5311"
+        },
+        {
+            "student_id": 2751283,
+            "student": "Сластён Владислав Алексеевич",
+            "student_group": 27636,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "5311"
+        },
+        {
+            "student_id": 2751825,
+            "student": "Алимов Умиджон Амуджанович",
+            "student_group": 28192,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "6105"
+        },
+        {
+            "student_id": 2752767,
+            "student": "Мырадов Ылхам",
+            "student_group": 27097,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "6233"
+        },
+        {
+            "student_id": 2752771,
+            "student": "Таджибаев Фуркат",
+            "student_group": 27097,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "6233"
+        },
+        {
+            "student_id": 2753154,
+            "student": "Ходжаниязова Дилнура",
+            "student_group": 27118,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "6321"
+        },
+        {
+            "student_id": 2753354,
+            "student": "Аганязов Довран",
+            "student_group": 27134,
+            "leader": false,
+            "status": "demotion",
+            "course": 3,
+            "group_": "6341"
+        },
+        {
+            "student_id": 2753373,
+            "student": "Сабырова Айгозел",
+            "student_group": 27134,
+            "leader": true,
+            "status": "promotion",
+            "course": 3,
+            "group_": "6341"
+        },
+        {
+            "student_id": 2753917,
+            "student": "Голов Владислав Сергеевич",
+            "student_group": 27523,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "8210"
+        },
+        {
+            "student_id": 2753920,
+            "student": "Колпакова Екатерина Сергеевна",
+            "student_group": 27523,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "8210"
+        },
+        {
+            "student_id": 2754163,
+            "student": "Латыпова Эльмира Аликовна",
+            "student_group": 27531,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "8230"
+        },
+        {
+            "student_id": 2754233,
+            "student": "Макарова Елизавета Артемовна",
+            "student_group": 27534,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "8240"
+        },
+        {
+            "student_id": 2754241,
+            "student": "Халиуллин Назар Азатович",
+            "student_group": 27534,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "8240"
+        },
+        {
+            "student_id": 2755694,
+            "student": "Залалетдинов Амир Ильмирович",
+            "student_group": 27046,
+            "leader": true,
+            "status": "promotion",
+            "course": 1,
+            "group_": "21102"
+        },
+        {
+            "student_id": 2755698,
+            "student": "Корчагина Евангелина Андреевна",
+            "student_group": 27046,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "21102"
+        }
+    ],
+    "today": "2025-10-22",
+    "time_difference": "00:11:08",
+    "total_groups": 925,
+    "total_new_groups": 1,
+    "total_deleted_groups": 0,
+    "total_students": 16334,
+    "total_new_students": 109,
+    "total_deleted_students": 208,
+    "total_leader_status": 27,
+    "total_group_changes": 20
+}

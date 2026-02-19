@@ -1,0 +1,156 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1597781,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        },
+        {
+            "student_id": 1598525,
+            "student": "Гайфутдинов Амир Ринатович",
+            "new_group_id": 26801,
+            "old_group_id": 26803,
+            "new_group_": "8141",
+            "old_group_": "8143"
+        },
+        {
+            "student_id": 1599054,
+            "student": "Заспенко Никита Сергеевич",
+            "new_group_id": 26621,
+            "old_group_id": 26622,
+            "new_group_": "8242",
+            "old_group_": "8243"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1594040,
+            "student": "Булычков Матвей Вадимович",
+            "group_id": 26629,
+            "group_": "4342",
+            "leader": false
+        },
+        {
+            "student_id": 1595486,
+            "student": "Севрюгин Федор Сергеевич",
+            "group_id": 25981,
+            "group_": "5207",
+            "leader": false
+        },
+        {
+            "student_id": 1597781,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        },
+        {
+            "student_id": 1598525,
+            "student": "Гайфутдинов Амир Ринатович",
+            "group_id": 26801,
+            "group_": "8141",
+            "leader": false
+        },
+        {
+            "student_id": 1598941,
+            "student": "Гимранов Ильяс Вадимович",
+            "group_id": 26609,
+            "group_": "8224",
+            "leader": false
+        },
+        {
+            "student_id": 1599054,
+            "student": "Заспенко Никита Сергеевич",
+            "group_id": 26621,
+            "group_": "8242",
+            "leader": false
+        },
+        {
+            "student_id": 1600095,
+            "student": "Иванов Никита Денисович",
+            "group_id": 25432,
+            "group_": "21102",
+            "leader": false
+        },
+        {
+            "student_id": 1601748,
+            "student": "Тагиров Реваль Ринатович",
+            "group_id": 26832,
+            "group_": "28272",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1573616,
+            "student": "Постников Владимир Анатольевич",
+            "leader": false,
+            "group_id": 25887,
+            "group_": "1252",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1584277,
+            "student": "Заспенко Никита Сергеевич",
+            "leader": false,
+            "group_id": 26622,
+            "group_": "8243",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1583608,
+            "student": "Гайфутдинов Амир Ринатович",
+            "leader": false,
+            "group_id": 26803,
+            "group_": "8143",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1580514,
+            "student": "Лазарев Ярослав Владимирович",
+            "leader": false,
+            "group_id": 26012,
+            "group_": "5195",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1582926,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-03-24",
+    "time_difference": "00:10:20",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14861,
+    "total_new_students": 8,
+    "total_deleted_students": 5,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

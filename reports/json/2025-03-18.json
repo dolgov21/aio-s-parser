@@ -1,0 +1,129 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1565855,
+            "student": "Вовчук Илья Константинович",
+            "group_id": 25987,
+            "group_": "5215",
+            "leader": false
+        },
+        {
+            "student_id": 1571491,
+            "student": "Суворов Александр Михайлович",
+            "group_id": 25790,
+            "group_": "24372",
+            "leader": false
+        },
+        {
+            "student_id": 1571992,
+            "student": "Мальковская Татьяна Сергеевна",
+            "group_id": 26714,
+            "group_": "28201",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1542817,
+            "student": "Калелов Марат Сагидуллаевич",
+            "leader": false,
+            "group_id": 26295,
+            "group_": "1105",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1550519,
+            "student": "Давлатов Сардаржон",
+            "leader": false,
+            "group_id": 26369,
+            "group_": "5115",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1550585,
+            "student": "Хайбулин Александр Владимирович",
+            "leader": false,
+            "group_id": 26368,
+            "group_": "5114",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1550904,
+            "student": "Садриев Булат Тахирович",
+            "leader": false,
+            "group_id": 25981,
+            "group_": "5207",
+            "course": 2,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 1553014,
+            "student": "Акгаев Мердан",
+            "leader": false,
+            "group_id": 26172,
+            "group_": "6241",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1553083,
+            "student": "Суровикин Дмитрий",
+            "leader": false,
+            "group_id": 26174,
+            "group_": "6243",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1555654,
+            "student": "Жильцов Александр Дмитриевич",
+            "leader": false,
+            "group_id": 25507,
+            "group_": "21302",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 1556959,
+            "student": "Валеев Камиль Маратович",
+            "leader": false,
+            "group_id": 26763,
+            "group_": "28179",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-03-18",
+    "time_difference": "00:09:34",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14893,
+    "total_new_students": 3,
+    "total_deleted_students": 8,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

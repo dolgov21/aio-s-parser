@@ -1,0 +1,269 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 1834231,
+            "student": "Казиханов Динар Ильдарович",
+            "group_id": 26179,
+            "group_": "6298",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1809705,
+            "student": "Габдрахманов Ренат Ильгизович",
+            "leader": false,
+            "group_id": 26312,
+            "group_": "1118",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1810633,
+            "student": "Стерликов Александр Андреевич",
+            "leader": false,
+            "group_id": 25894,
+            "group_": "1260",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1810732,
+            "student": "Круглов Егор Алексеевич",
+            "leader": false,
+            "group_id": 25904,
+            "group_": "1309",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1810870,
+            "student": "Садыков Тимур Ильназович",
+            "leader": false,
+            "group_id": 25911,
+            "group_": "1318",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1813612,
+            "student": "Бешевец Вероника Юрьевна",
+            "leader": false,
+            "group_id": 26420,
+            "group_": "4105",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1813692,
+            "student": "Вахрушев Артем Станиславович",
+            "leader": false,
+            "group_id": 26423,
+            "group_": "4108",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1814176,
+            "student": "Крючкович Михаил Сергеевич",
+            "leader": false,
+            "group_id": 26462,
+            "group_": "4162",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1814669,
+            "student": "Маады Монгун-Очур Бурунаевич",
+            "leader": false,
+            "group_id": 26027,
+            "group_": "4206",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1815221,
+            "student": "Сабиржанов Эдуард Рашидович",
+            "leader": false,
+            "group_id": 26493,
+            "group_": "4284",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1815245,
+            "student": "Малинина Софья Александровна",
+            "leader": false,
+            "group_id": 26491,
+            "group_": "4282",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1815288,
+            "student": "Валиуллин Азат Анурович",
+            "leader": false,
+            "group_id": 26492,
+            "group_": "4283",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1815329,
+            "student": "Мартынов Артур Михайлович",
+            "leader": false,
+            "group_id": 26049,
+            "group_": "4294",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1815631,
+            "student": "Аксанов Камиль Альбертович",
+            "leader": false,
+            "group_id": 26062,
+            "group_": "4309",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1815686,
+            "student": "Манцеров Вячеслав Игоревич",
+            "leader": false,
+            "group_id": 26069,
+            "group_": "4316",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1815701,
+            "student": "Салахов Тимур Маратович",
+            "leader": false,
+            "group_id": 26068,
+            "group_": "4315",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1819068,
+            "student": "Рзазаде Исмаил Билал оглы",
+            "leader": false,
+            "group_id": 26152,
+            "group_": "6207",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1819238,
+            "student": "Аширкулиев Рашит",
+            "leader": false,
+            "group_id": 26161,
+            "group_": "6226",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1819319,
+            "student": "Агамырадова Огулнабат",
+            "leader": false,
+            "group_id": 26162,
+            "group_": "6227",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1819530,
+            "student": "Довлетяров Алиджан",
+            "leader": false,
+            "group_id": 26178,
+            "group_": "6294",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1821084,
+            "student": "Ульмасов Денис Дмитриевич",
+            "leader": false,
+            "group_id": 25364,
+            "group_": "8330",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1821085,
+            "student": "Хабибрахманов Максим Дамирович",
+            "leader": false,
+            "group_id": 25364,
+            "group_": "8330",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 1823314,
+            "student": "Одаев Даянч",
+            "leader": false,
+            "group_id": 26854,
+            "group_": "28105",
+            "course": 8,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-04-17",
+    "time_difference": "00:10:10",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14656,
+    "total_new_students": 1,
+    "total_deleted_students": 22,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

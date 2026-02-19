@@ -1,0 +1,41 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [],
+    "left_students": [
+        {
+            "student_id": 2254643,
+            "student": "Пуртова Алёна Евгеньевна",
+            "leader": false,
+            "group_id": 26612,
+            "group_": "8227",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2249706,
+            "student": "Фендан Сара",
+            "leader": false,
+            "group_id": 26059,
+            "group_": "4306",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-08-04",
+    "time_difference": "00:09:24",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13796,
+    "total_new_students": 0,
+    "total_deleted_students": 2,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

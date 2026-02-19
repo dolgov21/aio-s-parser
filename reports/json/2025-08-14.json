@@ -1,0 +1,132 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 2337629,
+            "student": "Крылова Дарья Романовна",
+            "group_id": 25359,
+            "group_": "8322",
+            "leader": false
+        },
+        {
+            "student_id": 2334182,
+            "student": "Садриев Булат Тахирович",
+            "group_id": 25981,
+            "group_": "5207",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2323774,
+            "student": "Харисов Рияз Маратович",
+            "leader": false,
+            "group_id": 25350,
+            "group_": "8314",
+            "course": 3,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2318740,
+            "student": "Салтуганов Иван Александрович",
+            "leader": false,
+            "group_id": 26063,
+            "group_": "4310",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2317634,
+            "student": "Гарипов Наиль Илдарович",
+            "leader": false,
+            "group_id": 26470,
+            "group_": "4196",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2323543,
+            "student": "Ушакова Карина Романовна",
+            "leader": false,
+            "group_id": 26605,
+            "group_": "8220",
+            "course": 2,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2323033,
+            "student": "Розубаева Самина Рустамовна",
+            "leader": false,
+            "group_id": 26793,
+            "group_": "8121",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2323215,
+            "student": "Феофантов Кирилл Иванович",
+            "leader": false,
+            "group_id": 26803,
+            "group_": "8143",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2323257,
+            "student": "Нафиков Айрат Равильевич",
+            "leader": false,
+            "group_id": 26944,
+            "group_": "8144",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2323264,
+            "student": "Щеглаков Даниил Александрович",
+            "leader": false,
+            "group_id": 26944,
+            "group_": "8144",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 2329459,
+            "student": "Нестеров Николай Сергеевич",
+            "student_group": 26214,
+            "leader": false,
+            "status": "demotion",
+            "course": 1,
+            "group_": "3142"
+        }
+    ],
+    "today": "2025-08-14",
+    "time_difference": "00:09:14",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13778,
+    "total_new_students": 2,
+    "total_deleted_students": 8,
+    "total_leader_status": 1,
+    "total_group_changes": 0
+}

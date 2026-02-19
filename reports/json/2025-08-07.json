@@ -1,0 +1,146 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2302207,
+            "student": "Вагизов Саид Рустемович",
+            "new_group_id": 26224,
+            "old_group_id": 26225,
+            "new_group_": "3238",
+            "old_group_": "3239"
+        },
+        {
+            "student_id": 2308720,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        },
+        {
+            "student_id": 2309099,
+            "student": "Алексеев Артём Алексеевич",
+            "new_group_id": 26198,
+            "old_group_id": 26945,
+            "new_group_": "6408",
+            "old_group_": "8145"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2299711,
+            "student": "Хисамиев Ильдар Рамилевич",
+            "group_id": 26317,
+            "group_": "1162",
+            "leader": false
+        },
+        {
+            "student_id": 2302207,
+            "student": "Вагизов Саид Рустемович",
+            "group_id": 26224,
+            "group_": "3238",
+            "leader": false
+        },
+        {
+            "student_id": 2308720,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        },
+        {
+            "student_id": 2309099,
+            "student": "Алексеев Артём Алексеевич",
+            "group_id": 26198,
+            "group_": "6408",
+            "leader": false
+        },
+        {
+            "student_id": 2309460,
+            "student": "Бооль Владимир Владимирович",
+            "group_id": 26945,
+            "group_": "8145",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2287343,
+            "student": "Григорьев Никита Алексеевич",
+            "leader": false,
+            "group_id": 25959,
+            "group_": "1493",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2288434,
+            "student": "Вагизов Саид Рустемович",
+            "leader": false,
+            "group_id": 26225,
+            "group_": "3239",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2294888,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 2295645,
+            "student": "Алексеев Артём Алексеевич",
+            "leader": false,
+            "group_id": 26945,
+            "group_": "8145",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2295649,
+            "student": "Дубовцева Маргарита Ильинична",
+            "leader": false,
+            "group_id": 26945,
+            "group_": "8145",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2297703,
+            "student": "Шаймуратов Айрат Марселевич",
+            "leader": false,
+            "group_id": 26691,
+            "group_": "24101",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-08-07",
+    "time_difference": "00:09:25",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13794,
+    "total_new_students": 5,
+    "total_deleted_students": 6,
+    "total_leader_status": 0,
+    "total_group_changes": 3
+}

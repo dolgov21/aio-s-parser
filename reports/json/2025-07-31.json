@@ -1,0 +1,137 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 2239686,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26203,
+            "old_group_id": 26180,
+            "new_group_": "6295",
+            "old_group_": "6299"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 2235900,
+            "student": "Фендан Сара",
+            "group_id": 26059,
+            "group_": "4306",
+            "leader": false
+        },
+        {
+            "student_id": 2236396,
+            "student": "Шавина Регина Ринатовна",
+            "group_id": 26499,
+            "group_": "4383",
+            "leader": false
+        },
+        {
+            "student_id": 2239686,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26203,
+            "group_": "6295",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2226612,
+            "student": "Верещагин Арсений Егорович",
+            "leader": false,
+            "group_id": 26801,
+            "group_": "8141",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2226771,
+            "student": "Миндрюков Данила Александрович",
+            "leader": false,
+            "group_id": 26949,
+            "group_": "8149",
+            "course": 1,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        },
+        {
+            "student_id": 2221318,
+            "student": "Хайдаров Амир Робертович",
+            "leader": false,
+            "group_id": 26032,
+            "group_": "4211",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2221079,
+            "student": "Павлович Елизавета Максимовна",
+            "leader": false,
+            "group_id": 26470,
+            "group_": "4196",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2220957,
+            "student": "Гребенщиков Павел Евгеньевич",
+            "leader": false,
+            "group_id": 26484,
+            "group_": "4180",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2222631,
+            "student": "Бикчанова Регина Ринатовна",
+            "leader": false,
+            "group_id": 26499,
+            "group_": "4383",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2225920,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26180,
+            "group_": "6299",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 2239569,
+            "student": "Ашыров Даянч",
+            "student_group": 26173,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "6242"
+        }
+    ],
+    "today": "2025-07-31",
+    "time_difference": "00:09:51",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13798,
+    "total_new_students": 3,
+    "total_deleted_students": 7,
+    "total_leader_status": 1,
+    "total_group_changes": 1
+}

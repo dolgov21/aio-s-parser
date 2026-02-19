@@ -1,0 +1,197 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1686699,
+            "student": "Овезов Мекан",
+            "new_group_id": 26171,
+            "old_group_id": 26167,
+            "new_group_": "6238",
+            "old_group_": "6234"
+        },
+        {
+            "student_id": 1686811,
+            "student": "Сазонова Анастасия Анатольевна",
+            "new_group_id": 26180,
+            "old_group_id": 26203,
+            "new_group_": "6299",
+            "old_group_": "6295"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1686699,
+            "student": "Овезов Мекан",
+            "group_id": 26171,
+            "group_": "6238",
+            "leader": false
+        },
+        {
+            "student_id": 1686811,
+            "student": "Сазонова Анастасия Анатольевна",
+            "group_id": 26180,
+            "group_": "6299",
+            "leader": false
+        },
+        {
+            "student_id": 1680053,
+            "student": "Сурков Николай Валерьевич",
+            "group_id": 26234,
+            "group_": "3284",
+            "leader": false
+        },
+        {
+            "student_id": 1676715,
+            "student": "Араужо Маттос Памела",
+            "group_id": 26310,
+            "group_": "1116",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1668004,
+            "student": "Бухаров Артур Эмилевич",
+            "leader": false,
+            "group_id": 26068,
+            "group_": "4315",
+            "course": 3,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1671629,
+            "student": "Магсадов Эзиз",
+            "leader": false,
+            "group_id": 26162,
+            "group_": "6227",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671751,
+            "student": "Овезов Мекан",
+            "leader": false,
+            "group_id": 26167,
+            "group_": "6234",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671805,
+            "student": "Худайназаров Непес",
+            "leader": false,
+            "group_id": 26168,
+            "group_": "6235",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671855,
+            "student": "Атаев Баллынияз",
+            "leader": false,
+            "group_id": 26172,
+            "group_": "6241",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671856,
+            "student": "Атаев Палван",
+            "leader": false,
+            "group_id": 26172,
+            "group_": "6241",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671830,
+            "student": "Акмырадов Якуп",
+            "leader": false,
+            "group_id": 26173,
+            "group_": "6242",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671843,
+            "student": "Разаков Гурбанмырат",
+            "leader": false,
+            "group_id": 26173,
+            "group_": "6242",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671868,
+            "student": "Аллалыев Батыр",
+            "leader": false,
+            "group_id": 26174,
+            "group_": "6243",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671871,
+            "student": "Баймыев Довлетгелди",
+            "leader": false,
+            "group_id": 26174,
+            "group_": "6243",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671879,
+            "student": "Оразгелдиева Айгул",
+            "leader": false,
+            "group_id": 26174,
+            "group_": "6243",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        },
+        {
+            "student_id": 1671999,
+            "student": "Сазонова Анастасия Анатольевна",
+            "leader": false,
+            "group_id": 26203,
+            "group_": "6295",
+            "course": 2,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-04-01",
+    "time_difference": "00:10:17",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14838,
+    "total_new_students": 4,
+    "total_deleted_students": 12,
+    "total_leader_status": 0,
+    "total_group_changes": 2
+}

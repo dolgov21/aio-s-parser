@@ -1,0 +1,281 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1143341,
+            "student": "Нургалиев Ильсаф Робертович",
+            "new_group_id": 26484,
+            "old_group_id": 26485,
+            "new_group_": "4180",
+            "old_group_": "4181"
+        },
+        {
+            "student_id": 1143342,
+            "student": "Олейник Илья Игоревич",
+            "new_group_id": 26484,
+            "old_group_id": 26421,
+            "new_group_": "4180",
+            "old_group_": "4106"
+        },
+        {
+            "student_id": 1143351,
+            "student": "Хисамиева Камилла Салаватовна",
+            "new_group_id": 26484,
+            "old_group_id": 26431,
+            "new_group_": "4180",
+            "old_group_": "4118"
+        },
+        {
+            "student_id": 1143427,
+            "student": "Гатауллин Айрат Халимович",
+            "new_group_id": 26487,
+            "old_group_id": 26561,
+            "new_group_": "4183",
+            "old_group_": "6110"
+        },
+        {
+            "student_id": 1143451,
+            "student": "Хамидуллин Айнур Ильнурович",
+            "new_group_id": 26487,
+            "old_group_id": 26434,
+            "new_group_": "4183",
+            "old_group_": "4115"
+        },
+        {
+            "student_id": 1143455,
+            "student": "Анохин Максим Сергеевич",
+            "new_group_id": 26485,
+            "old_group_id": 26421,
+            "new_group_": "4181",
+            "old_group_": "4106"
+        },
+        {
+            "student_id": 1143513,
+            "student": "Юнусова Гульназ Ильнуровна",
+            "new_group_id": 26488,
+            "old_group_id": 26422,
+            "new_group_": "4184",
+            "old_group_": "4107"
+        },
+        {
+            "student_id": 1143514,
+            "student": "Яковлева Татьяна Сергеевна",
+            "new_group_id": 26488,
+            "old_group_id": 26422,
+            "new_group_": "4184",
+            "old_group_": "4107"
+        },
+        {
+            "student_id": 1144470,
+            "student": "Ибрагимов Фарит Айратович",
+            "new_group_id": 26492,
+            "old_group_id": 26024,
+            "new_group_": "4283",
+            "old_group_": "4203"
+        },
+        {
+            "student_id": 1144487,
+            "student": "Чийпеш Владислав Дмитриевич",
+            "new_group_id": 26492,
+            "old_group_id": 26039,
+            "new_group_": "4283",
+            "old_group_": "4218"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1143341,
+            "student": "Нургалиев Ильсаф Робертович",
+            "group_id": 26484,
+            "group_": "4180",
+            "leader": false
+        },
+        {
+            "student_id": 1143342,
+            "student": "Олейник Илья Игоревич",
+            "group_id": 26484,
+            "group_": "4180",
+            "leader": false
+        },
+        {
+            "student_id": 1143351,
+            "student": "Хисамиева Камилла Салаватовна",
+            "group_id": 26484,
+            "group_": "4180",
+            "leader": false
+        },
+        {
+            "student_id": 1143455,
+            "student": "Анохин Максим Сергеевич",
+            "group_id": 26485,
+            "group_": "4181",
+            "leader": false
+        },
+        {
+            "student_id": 1143427,
+            "student": "Гатауллин Айрат Халимович",
+            "group_id": 26487,
+            "group_": "4183",
+            "leader": false
+        },
+        {
+            "student_id": 1143451,
+            "student": "Хамидуллин Айнур Ильнурович",
+            "group_id": 26487,
+            "group_": "4183",
+            "leader": false
+        },
+        {
+            "student_id": 1143513,
+            "student": "Юнусова Гульназ Ильнуровна",
+            "group_id": 26488,
+            "group_": "4184",
+            "leader": false
+        },
+        {
+            "student_id": 1143514,
+            "student": "Яковлева Татьяна Сергеевна",
+            "group_id": 26488,
+            "group_": "4184",
+            "leader": false
+        },
+        {
+            "student_id": 1144470,
+            "student": "Ибрагимов Фарит Айратович",
+            "group_id": 26492,
+            "group_": "4283",
+            "leader": false
+        },
+        {
+            "student_id": 1144487,
+            "student": "Чийпеш Владислав Дмитриевич",
+            "group_id": 26492,
+            "group_": "4283",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1128608,
+            "student": "Ибрагимов Фарит Айратович",
+            "leader": false,
+            "group_id": 26024,
+            "group_": "4203",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1128966,
+            "student": "Чийпеш Владислав Дмитриевич",
+            "leader": false,
+            "group_id": 26039,
+            "group_": "4218",
+            "course": 2,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1127664,
+            "student": "Анохин Максим Сергеевич",
+            "leader": false,
+            "group_id": 26421,
+            "group_": "4106",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1127673,
+            "student": "Олейник Илья Игоревич",
+            "leader": false,
+            "group_id": 26421,
+            "group_": "4106",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1127738,
+            "student": "Юнусова Гульназ Ильнуровна",
+            "leader": false,
+            "group_id": 26422,
+            "group_": "4107",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1127739,
+            "student": "Яковлева Татьяна Сергеевна",
+            "leader": false,
+            "group_id": 26422,
+            "group_": "4107",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1127990,
+            "student": "Хисамиева Камилла Салаватовна",
+            "leader": false,
+            "group_id": 26431,
+            "group_": "4118",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1127942,
+            "student": "Хамидуллин Айнур Ильнурович",
+            "leader": false,
+            "group_id": 26434,
+            "group_": "4115",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1128426,
+            "student": "Нургалиев Ильсаф Робертович",
+            "leader": false,
+            "group_id": 26485,
+            "group_": "4181",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 1132860,
+            "student": "Гатауллин Айрат Халимович",
+            "leader": false,
+            "group_id": 26561,
+            "group_": "6110",
+            "course": 1,
+            "institute_id": 6,
+            "institute": "Институт инженерной экономики и предпринимательства",
+            "institute_num": 6
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-02-10",
+    "time_difference": "00:10:22",
+    "total_groups": 913,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 15006,
+    "total_new_students": 10,
+    "total_deleted_students": 10,
+    "total_leader_status": 0,
+    "total_group_changes": 10
+}

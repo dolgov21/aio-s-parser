@@ -1,0 +1,30 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [],
+    "left_students": [
+        {
+            "student_id": 1644616,
+            "student": "Насонов Дмитрий Александрович",
+            "leader": false,
+            "group_id": 25432,
+            "group_": "21102",
+            "course": 1,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-03-30",
+    "time_difference": "00:10:03",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14846,
+    "total_new_students": 0,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 0
+}

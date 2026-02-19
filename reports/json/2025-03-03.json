@@ -1,0 +1,54 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [
+        {
+            "student_id": 1401597,
+            "student": "Хайруллин Карим Маратович",
+            "new_group_id": 26014,
+            "old_group_id": 25930,
+            "new_group_": "5197",
+            "old_group_": "1410"
+        }
+    ],
+    "entered_students": [
+        {
+            "student_id": 1401597,
+            "student": "Хайруллин Карим Маратович",
+            "group_id": 26014,
+            "group_": "5197",
+            "leader": false
+        },
+        {
+            "student_id": 1407914,
+            "student": "Салимзянов Айназ Рамисович",
+            "group_id": 26832,
+            "group_": "28272",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 1380389,
+            "student": "Хайруллин Карим Маратович",
+            "leader": false,
+            "group_id": 25930,
+            "group_": "1410",
+            "course": 4,
+            "institute_id": 1,
+            "institute": "Институт авиации, наземного транспорта и энергетики",
+            "institute_num": 1
+        }
+    ],
+    "leader_status": [],
+    "today": "2025-03-03",
+    "time_difference": "00:09:19",
+    "total_groups": 914,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 14971,
+    "total_new_students": 2,
+    "total_deleted_students": 1,
+    "total_leader_status": 0,
+    "total_group_changes": 1
+}

@@ -1,0 +1,112 @@
+{
+    "new_groups": [],
+    "deleted_groups": [],
+    "group_changes": [],
+    "entered_students": [
+        {
+            "student_id": 2228971,
+            "student": "Чукашова Рузанна Руслановна",
+            "group_id": 26663,
+            "group_": "24211",
+            "leader": false
+        }
+    ],
+    "left_students": [
+        {
+            "student_id": 2215383,
+            "student": "Сафина Замира Абдулвохидовна",
+            "leader": false,
+            "group_id": 25795,
+            "group_": "24387",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2215001,
+            "student": "Шитов Тимур Вадимович",
+            "leader": false,
+            "group_id": 26697,
+            "group_": "24174",
+            "course": 4,
+            "institute_id": 2,
+            "institute": "Факультет физико-математический",
+            "institute_num": 2
+        },
+        {
+            "student_id": 2205755,
+            "student": "Фомин Николай Сергеевич",
+            "leader": false,
+            "group_id": 26229,
+            "group_": "3243",
+            "course": 2,
+            "institute_id": 3,
+            "institute": "Институт автоматики и электронного приборостроения",
+            "institute_num": 3
+        },
+        {
+            "student_id": 2206441,
+            "student": "Юсупов Амир Рамилевич",
+            "leader": false,
+            "group_id": 26413,
+            "group_": "4101",
+            "course": 1,
+            "institute_id": 4,
+            "institute": "Институт компьютерных технологий и защиты информации",
+            "institute_num": 4
+        },
+        {
+            "student_id": 2209898,
+            "student": "Марданова Чулпан Илгизаровна",
+            "leader": false,
+            "group_id": 26008,
+            "group_": "5188",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        },
+        {
+            "student_id": 2209921,
+            "student": "Чабдаров Назар Альбертович",
+            "leader": false,
+            "group_id": 26011,
+            "group_": "5194",
+            "course": 1,
+            "institute_id": 5,
+            "institute": "Институт радиоэлектроники, фотоники и цифровых технологий",
+            "institute_num": 5
+        }
+    ],
+    "leader_status": [
+        {
+            "student_id": 2221134,
+            "student": "Ширяева Мария Ивановна",
+            "student_group": 26022,
+            "leader": true,
+            "status": "promotion",
+            "course": 2,
+            "group_": "4201"
+        },
+        {
+            "student_id": 2225861,
+            "student": "Сабырова Айгозел",
+            "student_group": 26174,
+            "leader": false,
+            "status": "demotion",
+            "course": 2,
+            "group_": "6243"
+        }
+    ],
+    "today": "2025-07-29",
+    "time_difference": "00:09:33",
+    "total_groups": 915,
+    "total_new_groups": 0,
+    "total_deleted_groups": 0,
+    "total_students": 13802,
+    "total_new_students": 1,
+    "total_deleted_students": 6,
+    "total_leader_status": 2,
+    "total_group_changes": 0
+}
